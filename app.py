@@ -39,7 +39,7 @@ clf = RandomForestClassifier(n_estimators=50, class_weight='balanced')
 clf.fit(X, y)
 
 # Streamlit app
-st.title("Random Forest Model Deployment")
+st.title("Credit Score Model Deployment")
 st.write("This app predicts credit card approval using a Random Forest model.")
 
 # Sidebar inputs
