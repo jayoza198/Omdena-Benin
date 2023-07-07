@@ -1,0 +1,1001 @@
+ID,FLAG_OWN_CAR,FLAG_OWN_REALTY,AMT_INCOME_TOTAL,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,DAYS_BIRTH,DAYS_EMPLOYED,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS
+5028268,Y,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-11688,-1299,0,0,1,Laborers,2.0
+5068122,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-17075,-2942,0,0,0,Laborers,2.0
+5045661,Y,Y,180000.0,Working,Higher education,Single / not married,Rented apartment,-8507,-1082,0,0,0,Core staff,1.0
+5065591,Y,N,90000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-13891,-7080,1,1,0,Medicine staff,3.0
+5051004,N,N,306000.0,Working,Higher education,Married,Rented apartment,-10707,-1354,0,0,0,Managers,2.0
+5143487,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-11935,-1200,0,0,0,Drivers,3.0
+5061612,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-11378,-867,0,1,0,Drivers,3.0
+5009811,N,N,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-11813,-3266,1,1,0,Sales staff,3.0
+5090752,Y,N,1350000.0,Working,Higher education,Married,Municipal or Office apartment,-12999,-1560,0,1,1,Managers,2.0
+5126113,N,N,180000.0,Working,Basic,Married,Municipal or Office apartment,-16235,-4123,1,0,0,Managers,2.0
+5010318,N,N,135000.0,Working,Higher education,Married,Rented apartment,-9493,-130,0,0,1,Cooking staff,2.0
+5033735,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12601,-6053,0,0,0,Cooking staff,3.0
+5061580,N,Y,495000.0,Working,Higher education,Married,Rented apartment,-19682,-3880,0,1,1,Managers,2.0
+5045571,N,Y,99000.0,Working,Secondary / secondary special,Married,Rented apartment,-18976,-3730,1,0,0,Sales staff,2.0
+5052993,N,Y,56700.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20696,365243,0,0,0,unavailable,2.0
+5100118,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20352,-673,0,1,0,unavailable,2.0
+5062008,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21663,365243,0,0,1,unavailable,2.0
+5045070,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-10344,-2533,0,0,0,Laborers,2.0
+5068923,N,Y,360000.0,Working,Secondary / secondary special,Married,Rented apartment,-17271,-993,0,0,0,High skill tech staff,2.0
+5009032,N,Y,315000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10554,-1194,0,0,0,Accountants,1.0
+5021904,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-10328,-1156,0,0,0,Laborers,2.0
+5069001,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-18537,-354,0,0,0,Sales staff,2.0
+5061249,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-9301,-1751,0,0,0,unavailable,2.0
+5061598,N,Y,62653.5,Working,Secondary / secondary special,Separated,Rented apartment,-19658,-320,1,1,0,Sales staff,1.0
+5117855,N,N,135000.0,Working,Higher education,Married,With parents,-10877,-2349,0,0,0,Core staff,3.0
+5066547,N,Y,135000.0,Pensioner,Higher education,Married,Rented apartment,-23640,365243,0,1,1,unavailable,2.0
+5096152,Y,N,450000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19772,365243,0,1,0,unavailable,3.0
+5146167,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-20296,-1770,0,0,0,Security staff,2.0
+5116588,Y,N,157500.0,Working,Higher education,Married,Rented apartment,-15602,-611,0,0,0,unavailable,2.0
+5010653,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-13360,-4086,0,0,0,Laborers,4.0
+5092006,N,N,112500.0,Working,Higher education,Married,With parents,-19721,-1539,0,0,0,Accountants,2.0
+5023638,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12272,-2212,1,0,0,Laborers,3.0
+5095484,N,Y,157500.0,Working,Secondary / secondary special,Separated,Rented apartment,-15554,-96,0,1,0,Laborers,2.0
+5143602,N,N,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-11639,-3333,1,0,0,Waiters/barmen staff,2.0
+5126772,N,Y,112500.0,Working,Secondary / secondary special,Separated,Rented apartment,-17992,-9419,0,1,0,Laborers,2.0
+5053039,N,Y,45000.0,Pensioner,Basic,Married,Rented apartment,-22250,365243,0,0,0,unavailable,2.0
+5068659,Y,Y,360000.0,Working,Higher education,Separated,Rented apartment,-19305,-1905,0,0,0,Core staff,1.0
+5087496,Y,Y,157500.0,Working,Higher education,Married,Rented apartment,-15330,-1014,1,1,0,Managers,2.0
+5087532,N,Y,81000.0,Working,Higher education,Single / not married,Rented apartment,-9874,-1928,0,1,0,Laborers,1.0
+5132805,N,Y,157500.0,Working,Secondary / secondary special,Separated,Rented apartment,-18540,-1534,0,0,0,Sales staff,1.0
+5026096,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21216,365243,0,1,0,unavailable,2.0
+5025951,N,Y,130500.0,Working,Secondary / secondary special,Married,Rented apartment,-13520,-5488,0,0,0,Core staff,2.0
+5050682,N,N,157500.0,Working,Secondary / secondary special,Widow,Rented apartment,-17963,-197,0,0,0,Cleaning staff,1.0
+5028288,N,N,157500.0,Working,Secondary / secondary special,Married,With parents,-11941,-2760,0,0,0,unavailable,3.0
+5041921,N,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22765,365243,0,1,0,unavailable,2.0
+5021446,N,Y,121500.0,Working,Secondary / secondary special,Married,With parents,-13315,-5204,1,1,0,Core staff,2.0
+5046481,Y,Y,292500.0,Working,Secondary / secondary special,Married,With parents,-9980,-351,0,0,0,Drivers,2.0
+5061292,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23021,365243,0,0,0,unavailable,2.0
+5146556,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-17816,-1285,0,0,0,Medicine staff,2.0
+5135936,N,Y,101250.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10179,-1813,0,1,0,Sales staff,1.0
+5100200,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-19843,-1922,0,0,0,Managers,2.0
+5056161,N,Y,216000.0,Working,Secondary / secondary special,Married,Rented apartment,-18067,-6517,1,1,1,High skill tech staff,2.0
+5054727,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-18791,-1003,1,0,0,Managers,3.0
+5142701,Y,N,95850.0,Working,Secondary / secondary special,Married,Rented apartment,-18931,-6678,1,0,0,Laborers,2.0
+5053677,Y,Y,225000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-12075,-1430,0,1,0,High skill tech staff,1.0
+5126357,N,N,157500.0,Working,Higher education,Married,Rented apartment,-12348,-380,0,1,0,unavailable,3.0
+5105251,N,N,207000.0,Working,Higher education,Married,Rented apartment,-14740,-6723,0,1,0,Core staff,2.0
+5079255,Y,Y,162000.0,Working,Higher education,Separated,Rented apartment,-15652,-3404,1,1,0,Accountants,1.0
+5126405,N,N,157500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21253,365243,0,1,0,unavailable,2.0
+5095833,N,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-15634,-158,1,0,0,Laborers,2.0
+5126589,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-20493,-7624,1,1,0,Managers,2.0
+5024287,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-11270,-1889,0,0,1,Managers,2.0
+5048327,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9530,-430,1,0,0,Security staff,1.0
+5135771,N,Y,108000.0,Working,Higher education,Married,Rented apartment,-13877,-1021,0,0,0,Accountants,3.0
+5117259,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22361,365243,0,0,0,unavailable,2.0
+5010549,Y,Y,315000.0,Working,Secondary / secondary special,Separated,Rented apartment,-18184,-3021,0,1,1,Laborers,1.0
+5132570,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-14934,-1350,0,1,0,Sales staff,3.0
+5067304,N,Y,144000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22491,365243,0,0,0,unavailable,2.0
+5113039,N,Y,153000.0,Working,Higher education,Separated,Rented apartment,-14966,-7921,0,0,1,Managers,1.0
+5090650,N,Y,252000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21272,365243,0,0,1,unavailable,2.0
+5010724,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-21396,-1013,0,0,1,High skill tech staff,2.0
+5126154,N,N,135000.0,Working,Secondary / secondary special,Widow,Rented apartment,-15888,-500,1,1,0,Laborers,1.0
+5046183,N,Y,115200.0,Working,Secondary / secondary special,Married,Rented apartment,-14876,-716,0,0,0,Laborers,4.0
+5009064,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-10450,-2077,0,0,0,Sales staff,2.0
+5053064,N,Y,193500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-22168,-10155,0,0,0,Cooking staff,2.0
+5085983,Y,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-16767,-1477,0,0,0,Low-skill Laborers,3.0
+5095500,N,Y,337500.0,Working,Higher education,Married,Rented apartment,-12797,-2318,0,0,0,Core staff,2.0
+5114045,N,N,99000.0,Working,Higher education,Married,Rented apartment,-14661,-5521,0,0,0,unavailable,2.0
+5069476,N,Y,225000.0,Working,Higher education,Married,Rented apartment,-13600,-5711,0,1,0,Core staff,4.0
+5023645,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14776,-2212,0,0,0,Drivers,4.0
+5022136,N,Y,126000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20681,365243,0,0,0,unavailable,2.0
+5022033,N,Y,143100.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22776,365243,0,1,0,unavailable,2.0
+5045452,Y,Y,247500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-19046,-5618,0,0,0,Laborers,1.0
+5021196,Y,Y,675000.0,Working,Secondary / secondary special,Married,Rented apartment,-18802,-913,0,0,0,unavailable,2.0
+5089433,Y,N,67500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-11352,-1160,1,0,0,Sales staff,4.0
+5022814,N,Y,261000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8477,-947,0,1,1,Laborers,1.0
+5125524,N,N,171000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-13865,-5674,1,1,0,Core staff,4.0
+5029656,N,Y,630000.0,Working,Higher education,Separated,Rented apartment,-22001,-1539,1,1,0,Accountants,1.0
+5051090,N,N,247500.0,Working,Higher education,Married,Rented apartment,-11696,-2905,0,0,0,Core staff,2.0
+5009163,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12915,-3174,0,1,0,Sales staff,2.0
+5100288,Y,Y,144000.0,Working,Secondary / secondary special,Married,Rented apartment,-12625,-492,0,1,0,Core staff,3.0
+5150235,N,N,202500.0,Working,Higher education,Separated,Rented apartment,-13192,-3841,0,0,0,Core staff,2.0
+5079304,N,Y,225000.0,Pensioner,Higher education,Separated,Rented apartment,-19606,365243,0,0,0,unavailable,1.0
+5028276,Y,N,360000.0,Working,Secondary / secondary special,Married,Rented apartment,-12730,-2213,0,0,0,Accountants,4.0
+5089709,N,N,130500.0,Working,Secondary / secondary special,Single / not married,With parents,-11873,-3504,0,0,0,Laborers,1.0
+5096214,N,N,81000.0,Working,Secondary / secondary special,Married,Rented apartment,-14211,-158,1,0,0,Low-skill Laborers,2.0
+5143163,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-13791,-1353,1,0,0,Accountants,4.0
+5096096,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-10728,-1619,1,1,0,Accountants,3.0
+5048475,Y,N,225000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9187,-308,0,0,0,Core staff,1.0
+5114068,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-14339,-316,1,0,0,Core staff,2.0
+5024128,N,Y,135000.0,Working,Secondary / secondary special,Widow,Rented apartment,-15675,-305,0,0,0,Sales staff,2.0
+5024254,N,Y,630000.0,Working,Higher education,Married,Rented apartment,-17370,-4599,0,0,0,Managers,3.0
+5053563,Y,Y,193500.0,Working,Secondary / secondary special,Married,Rented apartment,-10439,-2250,1,0,0,Core staff,3.0
+5079068,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12311,-2461,1,1,0,Laborers,2.0
+5067760,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-23341,-5437,0,0,0,Medicine staff,1.0
+5116295,Y,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-16468,-3304,1,1,0,Drivers,4.0
+5149882,Y,Y,391500.0,Working,Higher education,Married,Rented apartment,-17423,-472,0,1,0,Managers,3.0
+5052916,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-13650,-3945,0,0,0,Laborers,2.0
+5117072,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-17439,-6853,0,0,0,Laborers,2.0
+5116376,N,N,90000.0,Working,Secondary / secondary special,Married,With parents,-10092,-976,0,0,0,unavailable,3.0
+5085623,N,Y,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-12440,-503,0,1,0,Core staff,2.0
+5044564,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-15744,-2351,1,1,0,unavailable,2.0
+5149760,N,Y,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-13467,-3850,0,1,0,Medicine staff,2.0
+5078965,N,Y,157500.0,Working,Secondary / secondary special,Separated,Rented apartment,-12009,-1912,0,1,0,Sales staff,1.0
+5115751,Y,Y,121500.0,Working,Secondary / secondary special,Married,With parents,-10511,-2355,1,1,0,Laborers,3.0
+5105496,Y,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9343,-1457,0,0,0,Waiters/barmen staff,1.0
+5010489,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19987,365243,0,0,0,unavailable,2.0
+5024310,N,Y,216000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-20024,365243,0,0,0,unavailable,1.0
+5114229,Y,N,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-18338,-5673,1,0,0,Laborers,4.0
+5142494,Y,Y,135000.0,Working,Higher education,Married,Rented apartment,-15481,-2874,0,0,0,Private service staff,3.0
+5009949,Y,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-12690,-4451,0,0,0,Cooking staff,4.0
+5033582,Y,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-14619,-2940,1,0,0,Laborers,3.0
+5010786,N,N,337500.0,Working,Higher education,Married,Rented apartment,-17004,-4574,0,0,1,Managers,2.0
+5058332,N,N,67500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20730,365243,0,0,0,unavailable,2.0
+5142244,Y,Y,180000.0,Working,Higher education,Married,Rented apartment,-19580,-1230,0,0,0,Laborers,4.0
+5033691,Y,N,157500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23035,365243,0,0,0,unavailable,2.0
+5117330,Y,Y,270000.0,Working,Secondary / secondary special,Separated,Rented apartment,-15027,-2257,0,1,0,Sales staff,1.0
+5024417,Y,Y,180000.0,Working,Secondary / secondary special,Married,With parents,-10722,-93,0,0,0,Cooking staff,2.0
+5085726,N,Y,54000.0,Working,Secondary / secondary special,Married,Rented apartment,-19598,-3303,0,0,0,High skill tech staff,2.0
+5046543,N,Y,148500.0,Working,Secondary / secondary special,Married,Rented apartment,-15083,-847,0,0,0,High skill tech staff,3.0
+5088723,N,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-16691,-1291,0,0,0,High skill tech staff,3.0
+5010177,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-18376,-4270,1,1,1,unavailable,4.0
+5096199,N,N,202500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21871,365243,0,1,0,unavailable,2.0
+5047678,N,N,180000.0,Working,Higher education,Married,Rented apartment,-14069,-2500,1,1,1,Core staff,3.0
+5148468,N,Y,135000.0,Working,Secondary / secondary special,Married,With parents,-11426,-229,0,0,0,Sales staff,3.0
+5090740,N,Y,45000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23802,365243,0,0,0,unavailable,2.0
+5047647,N,Y,247500.0,Working,Higher education,Married,Rented apartment,-11232,-461,0,1,0,Accountants,3.0
+5033914,Y,Y,112500.0,Working,Higher education,Married,Rented apartment,-19887,-725,0,1,0,High skill tech staff,2.0
+5033546,N,N,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20908,365243,0,0,0,unavailable,2.0
+5052839,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-19984,-3915,0,0,0,Cleaning staff,2.0
+5092346,N,Y,225000.0,Working,Secondary / secondary special,Widow,Rented apartment,-19252,-2057,0,0,0,Sales staff,1.0
+5065775,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21079,365243,0,0,0,unavailable,2.0
+5044634,Y,Y,81000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21360,365243,0,1,0,unavailable,2.0
+5009075,Y,Y,450000.0,Working,Higher education,Married,Rented apartment,-17726,-708,0,1,1,Core staff,3.0
+5113716,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-16415,-3054,0,0,1,Private service staff,3.0
+5024087,N,Y,157500.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-18865,365243,0,0,0,unavailable,1.0
+5036720,N,Y,121500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-18797,365243,0,1,0,unavailable,3.0
+5053701,N,N,193500.0,Working,Secondary / secondary special,Single / not married,Municipal or Office apartment,-17880,-9858,0,0,0,Cooking staff,2.0
+5099988,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-13328,-5817,0,1,0,High skill tech staff,4.0
+5018480,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-17935,-363,0,1,0,Laborers,3.0
+5035739,Y,Y,103500.0,Working,Higher education,Separated,Rented apartment,-17138,-8072,1,1,0,Core staff,1.0
+5142713,N,N,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-20669,-13102,1,0,0,Medicine staff,1.0
+5053005,N,Y,180000.0,Working,Basic,Married,Rented apartment,-16551,-5041,0,0,0,Cleaning staff,2.0
+5088555,N,Y,90000.0,Working,Higher education,Separated,Rented apartment,-18386,-8808,0,0,0,Core staff,1.0
+5149068,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-14869,-229,0,0,1,unavailable,4.0
+5023819,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15191,-1748,1,1,0,Core staff,2.0
+5041534,Y,Y,135000.0,Working,Higher education,Married,Rented apartment,-13474,-2894,1,1,0,Accountants,2.0
+5132921,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-11053,-1626,0,0,0,Laborers,2.0
+5104962,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-17816,-6195,0,0,0,unavailable,2.0
+5068194,Y,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-17901,-3611,0,0,0,Laborers,2.0
+5088416,Y,N,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-21997,-2538,1,1,0,Security staff,2.0
+5116181,Y,Y,202500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23390,365243,0,0,0,unavailable,2.0
+5028875,N,N,126000.0,Working,Secondary / secondary special,Married,With parents,-12072,-1422,0,0,1,unavailable,5.0
+5024644,Y,Y,180000.0,Working,Higher education,Married,Rented apartment,-10213,-1707,0,0,0,Managers,2.0
+5033940,N,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-17329,-1359,0,0,0,Laborers,2.0
+5033702,Y,Y,225000.0,Working,Secondary / secondary special,Separated,Rented apartment,-17547,-1328,0,1,0,unavailable,1.0
+5085625,N,Y,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-12440,-503,0,1,0,Core staff,2.0
+5095565,N,N,49500.0,Working,Secondary / secondary special,Married,Rented apartment,-11624,-949,1,1,0,Sales staff,2.0
+5114591,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-10886,-742,0,0,0,Drivers,2.0
+5022967,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19065,365243,0,0,0,unavailable,2.0
+5023678,Y,Y,117000.0,Working,Secondary / secondary special,Married,Rented apartment,-11736,-1816,0,0,0,Cooking staff,2.0
+5010258,N,Y,562500.0,Working,Secondary / secondary special,Married,Rented apartment,-13790,-5639,1,1,0,unavailable,3.0
+5024983,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15269,-2376,0,0,0,Core staff,3.0
+5085839,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-11638,-5009,0,1,0,Laborers,3.0
+5025102,N,Y,130500.0,Working,Secondary / secondary special,Married,Rented apartment,-14697,-1767,0,0,0,Sales staff,2.0
+5022294,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-15100,-3500,0,0,0,Cooking staff,3.0
+5045058,N,Y,675000.0,Working,Secondary / secondary special,Married,Rented apartment,-14163,-6886,0,1,0,Drivers,4.0
+5149732,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-11586,-1751,0,0,0,Core staff,3.0
+5136960,N,N,225000.0,Working,Higher education,Single / not married,Rented apartment,-12930,-5952,1,0,0,Medicine staff,3.0
+5024934,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-13702,-1462,0,1,0,Drivers,2.0
+5061242,N,Y,180000.0,Pensioner,Higher education,Married,Rented apartment,-21881,365243,0,0,0,unavailable,2.0
+5023605,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-20323,-1727,0,0,0,Cleaning staff,2.0
+5009990,Y,Y,495000.0,Pensioner,Higher education,Single / not married,Rented apartment,-22867,365243,0,0,0,unavailable,1.0
+5116016,Y,Y,450000.0,Pensioner,Higher education,Widow,Rented apartment,-22083,365243,0,1,0,unavailable,1.0
+5116036,Y,Y,126000.0,Working,Higher education,Single / not married,Rented apartment,-14522,-863,1,0,0,Managers,1.0
+5029506,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22720,365243,0,1,0,unavailable,2.0
+5115898,N,Y,90000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22689,365243,0,0,0,unavailable,2.0
+5115518,Y,Y,166500.0,Working,Secondary / secondary special,Married,Rented apartment,-14557,-7346,0,1,1,Accountants,4.0
+5079271,N,Y,225000.0,Working,Higher education,Married,Rented apartment,-10029,-2705,0,0,0,unavailable,4.0
+5074529,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-19053,-3629,0,0,0,High skill tech staff,1.0
+5029636,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14577,-2269,0,0,0,Sales staff,2.0
+5090428,Y,N,450000.0,Working,Higher education,Married,Municipal or Office apartment,-13820,-1799,0,1,0,Core staff,5.0
+5045266,N,Y,90000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-21581,365243,0,0,0,unavailable,1.0
+5009195,N,N,292500.0,Working,Secondary / secondary special,Married,Rented apartment,-20953,-8684,1,1,0,Accountants,2.0
+5029121,N,Y,123750.0,Working,Secondary / secondary special,Married,Rented apartment,-16686,-599,0,0,0,Cleaning staff,2.0
+5025029,N,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20013,365243,0,0,0,unavailable,2.0
+5061259,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-9301,-1751,0,0,0,unavailable,2.0
+5095632,Y,N,180000.0,Working,Higher education,Married,Rented apartment,-11178,-219,0,0,0,Drivers,3.0
+5089569,N,N,202500.0,Working,Higher education,Married,Rented apartment,-11309,-2713,1,0,0,Sales staff,2.0
+5088319,N,N,207000.0,Working,Secondary / secondary special,Married,Rented apartment,-14690,-5064,0,0,0,unavailable,2.0
+5145948,N,Y,337500.0,Working,Higher education,Single / not married,Rented apartment,-14408,-431,0,0,0,Accountants,2.0
+5100441,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-16247,-307,0,0,0,Laborers,2.0
+5068420,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12047,-4796,0,0,0,Medicine staff,3.0
+5089917,N,Y,144000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21916,365243,0,1,0,unavailable,2.0
+5024980,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-14255,-762,1,1,1,Drivers,2.0
+5022006,Y,Y,112500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9952,-1613,0,0,0,unavailable,1.0
+5066936,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14496,-4206,0,0,0,Medicine staff,3.0
+5114215,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14136,-2628,1,0,0,Managers,4.0
+5058247,N,Y,90000.0,Working,Higher education,Married,Rented apartment,-12849,-543,1,1,0,Core staff,2.0
+5050706,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12309,-1962,0,0,0,unavailable,2.0
+5066691,N,Y,180000.0,Working,Higher education,Married,Rented apartment,-12946,-341,0,1,1,Sales staff,2.0
+5023642,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14776,-2212,0,0,0,Drivers,4.0
+5008951,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-10321,-2808,0,0,0,unavailable,3.0
+5029743,Y,Y,315000.0,Working,Higher education,Married,Rented apartment,-21576,-1022,0,0,0,Drivers,2.0
+5051015,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-15381,-470,0,0,0,Laborers,2.0
+5028675,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-15017,-5591,0,0,0,unavailable,2.0
+5149658,N,Y,292500.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-22576,365243,0,0,0,unavailable,1.0
+5061369,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-17068,-8325,0,0,0,Laborers,2.0
+5029734,N,N,135000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-23019,365243,0,0,0,unavailable,1.0
+5114220,Y,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-12002,-2262,1,0,0,Sales staff,2.0
+5025179,Y,N,157500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21637,365243,0,0,0,unavailable,2.0
+5067387,Y,Y,254700.0,Working,Secondary / secondary special,Married,Rented apartment,-17254,-9131,0,1,0,Laborers,4.0
+5041542,N,N,90000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10731,-885,0,0,0,Sales staff,1.0
+5053287,N,Y,148500.0,Working,Secondary / secondary special,Married,Rented apartment,-11963,-3246,0,0,0,Laborers,2.0
+5095751,N,N,202500.0,Working,Secondary / secondary special,Married,With parents,-12869,-340,1,1,0,Managers,2.0
+5150036,N,N,180000.0,Working,Secondary / secondary special,Single / not married,With parents,-12784,-1537,0,0,0,Drivers,1.0
+5100364,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-18624,-2348,0,0,0,Laborers,2.0
+5067782,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12428,-1400,0,0,0,High skill tech staff,4.0
+5115860,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-15506,-6099,0,0,0,Laborers,3.0
+5065623,N,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-15302,-596,1,1,0,Laborers,2.0
+5029728,N,Y,135000.0,Working,Higher education,Married,Rented apartment,-9778,-2910,1,0,1,Core staff,3.0
+5105073,N,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-13648,-5840,0,0,0,Laborers,2.0
+5095321,N,Y,315000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-22854,365243,0,1,0,unavailable,1.0
+5048247,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-13440,-6639,0,0,0,Core staff,2.0
+5092229,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14496,-808,0,1,0,unavailable,2.0
+5062655,Y,Y,144000.0,Working,Secondary / secondary special,Married,Rented apartment,-13509,-1028,0,0,0,Laborers,3.0
+5024820,N,Y,72000.0,Working,Secondary / secondary special,Married,Rented apartment,-19728,-277,0,0,0,Sales staff,2.0
+5048532,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-12155,-979,0,0,0,Sales staff,3.0
+5148734,Y,Y,121500.0,Working,Secondary / secondary special,Married,Rented apartment,-10014,-1386,0,0,0,Medicine staff,2.0
+5105530,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-9955,-2036,0,0,0,unavailable,2.0
+5089631,N,N,315000.0,Working,Higher education,Married,Rented apartment,-16188,-309,1,1,1,Sales staff,2.0
+5009961,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-16613,-3235,0,0,0,unavailable,3.0
+5137127,N,N,90000.0,Working,Secondary / secondary special,Single / not married,With parents,-7757,-900,0,0,0,Sales staff,1.0
+5142547,Y,Y,157500.0,Working,Higher education,Single / not married,Rented apartment,-15849,-1138,0,0,0,Private service staff,1.0
+5079069,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12311,-2461,1,1,0,Laborers,2.0
+5045275,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-13787,-3082,0,0,0,Core staff,4.0
+5068409,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-9876,-1571,0,0,0,Core staff,2.0
+5137066,Y,N,315000.0,Working,Higher education,Married,With parents,-11689,-716,1,1,0,High skill tech staff,3.0
+5044808,N,Y,135000.0,Working,Higher education,Single / not married,Rented apartment,-9100,-1133,0,0,0,Managers,1.0
+5068665,Y,Y,360000.0,Working,Higher education,Separated,Rented apartment,-19305,-1905,0,0,0,Core staff,1.0
+5068389,Y,Y,270000.0,Working,Higher education,Separated,Rented apartment,-14052,-140,0,1,0,Sales staff,2.0
+5125532,Y,N,58500.0,Pensioner,Basic,Married,Rented apartment,-23377,365243,0,0,0,unavailable,2.0
+5058255,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-8565,-423,0,0,1,Core staff,3.0
+5010747,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-22014,-10236,1,1,0,Core staff,2.0
+5048020,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-13059,-4813,0,0,0,Laborers,4.0
+5096485,N,N,103500.0,Working,Higher education,Married,Rented apartment,-15989,-6640,1,1,0,unavailable,2.0
+5089861,N,Y,76500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20931,365243,0,1,0,unavailable,2.0
+5067594,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14926,-789,0,0,0,Cooking staff,2.0
+5061113,N,Y,112500.0,Working,Higher education,Married,Rented apartment,-20008,-5585,0,0,0,Security staff,2.0
+5089273,Y,N,315000.0,Working,Higher education,Married,Rented apartment,-13592,-3504,0,1,1,Accountants,2.0
+5135342,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-16393,-2959,1,1,0,Accountants,2.0
+5089509,Y,N,405000.0,Working,Secondary / secondary special,Married,Rented apartment,-13810,-1678,1,1,1,Core staff,3.0
+5149828,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-17348,-2420,0,0,0,Managers,2.0
+5024451,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-12604,-2620,1,1,0,Managers,2.0
+5100147,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-15635,-1860,0,0,0,Sales staff,4.0
+5009894,N,N,180000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22134,365243,0,0,0,unavailable,2.0
+5113598,N,N,81000.0,Working,Secondary / secondary special,Married,With parents,-11978,-2780,0,1,0,Sales staff,2.0
+5150481,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-10808,-1739,0,0,0,Core staff,3.0
+5065348,Y,Y,202500.0,Working,Higher education,Married,Rented apartment,-15160,-3974,0,0,0,High skill tech staff,2.0
+5051245,Y,N,121500.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-23328,365243,0,0,0,unavailable,1.0
+5035419,N,Y,292500.0,Working,Higher education,Married,Rented apartment,-21111,-4816,0,0,0,Core staff,2.0
+5118150,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-13584,-704,0,1,0,Laborers,3.0
+5010838,N,Y,180000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-21648,365243,0,1,0,unavailable,2.0
+5104931,N,N,67500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-16571,-2757,0,0,0,unavailable,2.0
+5038865,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-14488,-1630,0,1,0,Laborers,3.0
+5067856,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23239,365243,0,0,0,unavailable,2.0
+5090983,N,N,180000.0,Working,Secondary / secondary special,Separated,Rented apartment,-13774,-2684,0,0,0,Cooking staff,1.0
+5090433,Y,Y,427500.0,Working,Secondary / secondary special,Married,Rented apartment,-19894,-1229,0,0,0,Managers,2.0
+5146482,N,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-18744,-3141,0,1,0,Laborers,2.0
+5053895,N,Y,90000.0,Working,Secondary / secondary special,Separated,Rented apartment,-14271,-302,0,0,0,unavailable,1.0
+5061470,N,Y,112500.0,Working,Higher education,Married,Rented apartment,-10831,-1263,0,0,0,Laborers,3.0
+5041175,N,Y,180000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-10754,-65,1,1,0,Core staff,3.0
+5125573,Y,N,148500.0,Working,Secondary / secondary special,Married,Rented apartment,-10325,-3026,1,0,0,unavailable,2.0
+5089470,N,N,67500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-13891,-248,1,1,0,Core staff,4.0
+5087808,N,N,67500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22802,365243,0,1,0,unavailable,2.0
+5115964,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14677,-3938,1,0,0,Laborers,4.0
+5149843,Y,Y,144000.0,Working,Secondary / secondary special,Married,Rented apartment,-16939,-1081,0,0,0,Sales staff,2.0
+5037027,N,Y,85500.0,Working,Secondary / secondary special,Separated,Rented apartment,-21708,-15072,0,0,0,unavailable,1.0
+5068214,N,N,166500.0,Working,Secondary / secondary special,Married,Rented apartment,-22535,-5467,0,1,0,unavailable,2.0
+5126377,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-13566,-1900,1,0,0,High skill tech staff,2.0
+5135930,Y,Y,29250.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20086,365243,0,0,0,unavailable,2.0
+5136932,Y,N,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-18434,-2483,1,1,0,Managers,3.0
+5090478,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-20859,-4022,0,1,0,Medicine staff,2.0
+5116083,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20967,365243,0,1,0,unavailable,2.0
+5116550,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21312,365243,0,0,0,unavailable,2.0
+5023672,N,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-16274,-1513,0,0,0,Cooking staff,2.0
+5113670,N,Y,148500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19276,365243,0,0,0,unavailable,2.0
+5008959,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-17785,-1712,0,0,0,Laborers,2.0
+5118354,N,N,135000.0,Working,Higher education,Married,Rented apartment,-10675,-1284,1,0,0,Core staff,2.0
+5023414,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-16503,-2670,0,1,0,Managers,3.0
+5116218,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22530,365243,0,1,0,unavailable,2.0
+5009317,Y,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20140,365243,0,1,1,unavailable,2.0
+5022133,Y,N,207000.0,Working,Secondary / secondary special,Married,Rented apartment,-13297,-762,0,0,0,Sales staff,4.0
+5010771,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-11036,-4301,1,1,0,Laborers,1.0
+5022304,N,Y,90000.0,Working,Secondary / secondary special,Separated,Rented apartment,-19042,-3319,0,0,0,unavailable,1.0
+5053900,N,Y,90000.0,Working,Secondary / secondary special,Separated,Rented apartment,-14271,-302,0,0,0,unavailable,1.0
+5053714,Y,Y,225000.0,Working,Higher education,Separated,Rented apartment,-14816,-1672,0,0,0,Core staff,2.0
+5105644,Y,Y,202500.0,Working,Higher education,Married,Rented apartment,-17585,-3017,0,0,0,Drivers,2.0
+5069028,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-16605,-1359,0,0,1,Sales staff,2.0
+5100208,N,Y,90000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20718,365243,0,0,0,unavailable,2.0
+5022950,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,With parents,-8231,-731,0,0,0,Cooking staff,1.0
+5029096,Y,Y,135000.0,Working,Higher education,Married,Rented apartment,-11564,-2944,0,0,1,Managers,4.0
+5066736,N,Y,216000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22715,365243,0,0,0,unavailable,2.0
+5089196,N,N,94500.0,Pensioner,Higher education,Married,Rented apartment,-21373,365243,0,1,0,unavailable,2.0
+5125427,Y,Y,189000.0,Working,Basic,Married,Rented apartment,-16344,-864,0,0,1,Core staff,3.0
+5050855,N,N,180000.0,Working,Higher education,Single / not married,Rented apartment,-9488,-1505,0,0,0,High skill tech staff,1.0
+5118418,N,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12079,-1984,0,0,0,Core staff,4.0
+5028382,Y,N,337500.0,Working,Secondary / secondary special,Single / not married,With parents,-11344,-3309,0,0,0,Core staff,1.0
+5148925,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-16415,-9756,0,0,0,Laborers,2.0
+5126677,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-18806,-319,0,0,0,Sales staff,1.0
+5118444,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-13711,-1649,1,0,0,unavailable,5.0
+5126796,Y,Y,144000.0,Working,Secondary / secondary special,Married,Rented apartment,-11086,-2937,1,1,0,unavailable,4.0
+5118280,N,N,112500.0,Pensioner,Secondary / secondary special,Single / not married,Municipal or Office apartment,-21363,365243,0,0,0,unavailable,2.0
+5023422,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-16503,-2670,0,1,0,Managers,3.0
+5105694,Y,N,225000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-12155,-667,0,0,0,Laborers,2.0
+5113316,Y,Y,153000.0,Working,Secondary / secondary special,Married,Rented apartment,-19503,-10147,0,0,1,High skill tech staff,2.0
+5149330,N,Y,155250.0,Working,Secondary / secondary special,Separated,Rented apartment,-19420,-2267,1,0,0,Laborers,1.0
+5116293,Y,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-16468,-3304,1,1,0,Drivers,4.0
+5053120,Y,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-13534,-1420,0,0,0,unavailable,3.0
+5010864,Y,Y,450000.0,Working,Secondary / secondary special,Married,Rented apartment,-18173,-678,0,1,1,Core staff,3.0
+5091714,Y,Y,157500.0,Working,Higher education,Married,Rented apartment,-9766,-2696,1,0,0,Sales staff,3.0
+5105739,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-12368,-672,0,0,0,Core staff,5.0
+5105327,N,Y,76500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21933,365243,0,1,0,unavailable,2.0
+5114286,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-8865,-1351,0,0,0,unavailable,3.0
+5067691,N,Y,110250.0,Working,Secondary / secondary special,Married,Rented apartment,-17782,-2403,0,0,1,unavailable,2.0
+5143092,Y,N,180000.0,Working,Higher education,Married,With parents,-12956,-5553,0,0,0,unavailable,2.0
+5050659,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-14667,-1048,1,1,0,Accountants,2.0
+5050973,N,N,112500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-15964,-7591,0,0,0,Core staff,2.0
+5116267,N,Y,139500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22311,365243,0,0,0,unavailable,2.0
+5116227,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-18150,-1812,0,0,0,Drivers,3.0
+5139495,N,Y,225000.0,Working,Secondary / secondary special,Married,With parents,-16110,-401,0,0,0,Cooking staff,2.0
+5085878,N,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-18018,-11157,0,0,0,Private service staff,2.0
+5097043,N,N,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-19894,-2745,0,1,0,Core staff,2.0
+5036908,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-17187,-4327,0,0,0,Managers,3.0
+5042315,N,Y,157500.0,Working,Secondary / secondary special,Widow,Rented apartment,-19478,-1890,0,0,0,unavailable,1.0
+5085977,Y,Y,306000.0,Working,Higher education,Married,Rented apartment,-13505,-1234,0,0,0,Managers,2.0
+5028876,N,N,126000.0,Working,Secondary / secondary special,Married,With parents,-12072,-1422,0,0,1,unavailable,5.0
+5045201,Y,Y,139500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21009,365243,0,0,0,unavailable,2.0
+5046082,Y,Y,99000.0,Working,Secondary / secondary special,Married,Rented apartment,-21030,-2299,0,0,0,unavailable,2.0
+5136991,N,N,225000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-15168,-200,0,0,0,High skill tech staff,1.0
+5048049,N,Y,121500.0,Working,Higher education,Married,Rented apartment,-11157,-277,0,0,0,Accountants,2.0
+5029605,Y,Y,180000.0,Working,Higher education,Single / not married,Rented apartment,-15161,-7140,0,0,0,Core staff,1.0
+5009595,Y,N,144000.0,Working,Secondary / secondary special,Married,Rented apartment,-17383,-890,1,1,0,Core staff,2.0
+5132943,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-12676,-1350,0,0,0,Waiters/barmen staff,2.0
+5113332,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22381,365243,0,0,0,unavailable,2.0
+5045247,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-13865,-1682,0,1,0,Sales staff,3.0
+5143628,N,N,247500.0,Working,Higher education,Married,Rented apartment,-15125,-199,0,0,0,Drivers,2.0
+5068651,Y,Y,360000.0,Working,Higher education,Separated,Rented apartment,-19305,-1905,0,0,0,Core staff,1.0
+5010565,Y,Y,121500.0,Working,Higher education,Married,Rented apartment,-10145,-1682,0,0,1,Sales staff,2.0
+5126325,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-17778,-1719,1,1,0,High skill tech staff,2.0
+5142954,N,N,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-8274,-742,1,1,0,Laborers,2.0
+5018498,Y,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-18950,-1002,1,1,0,Cooking staff,2.0
+5024081,N,Y,112500.0,Working,Secondary / secondary special,Separated,Rented apartment,-14351,-3592,0,0,0,Sales staff,3.0
+5069219,Y,Y,256500.0,Working,Higher education,Married,Rented apartment,-11210,-1724,1,0,0,Accountants,2.0
+5052704,N,Y,90000.0,Working,Higher education,Married,Rented apartment,-12496,-597,0,0,0,unavailable,4.0
+5046374,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-19558,-1904,0,0,0,Laborers,2.0
+5140003,N,Y,238500.0,Working,Secondary / secondary special,Married,Rented apartment,-17697,-1892,0,0,0,unavailable,2.0
+5105607,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-13039,-3375,0,0,0,Laborers,7.0
+5105252,N,N,207000.0,Working,Higher education,Married,Rented apartment,-14740,-6723,0,1,0,Core staff,2.0
+5132747,Y,N,225000.0,Working,Higher education,Married,With parents,-11828,-165,0,0,0,Accountants,2.0
+5126125,Y,N,72000.0,Working,Secondary / secondary special,Married,Rented apartment,-15185,-227,1,1,0,Medicine staff,2.0
+5050482,N,N,292500.0,Working,Secondary / secondary special,Married,Rented apartment,-18698,-10758,0,0,0,Laborers,2.0
+5024063,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-10980,-2893,0,0,0,Core staff,5.0
+5092467,N,N,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-15161,-2087,1,0,0,Sales staff,2.0
+5096743,N,Y,180000.0,Working,Basic,Widow,Rented apartment,-16803,-2227,1,1,0,Cleaning staff,1.0
+5115443,N,Y,382500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19648,365243,0,0,0,unavailable,2.0
+5105056,Y,N,225000.0,Working,Higher education,Single / not married,Municipal or Office apartment,-11528,-606,0,1,1,High skill tech staff,1.0
+5062401,Y,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10629,-2969,0,0,1,High skill tech staff,1.0
+5118343,Y,N,81000.0,Working,Secondary / secondary special,Married,Rented apartment,-15062,-2014,1,0,0,unavailable,3.0
+5009856,Y,N,360000.0,Working,Secondary / secondary special,Separated,With parents,-10276,-556,1,1,0,Drivers,1.0
+5029248,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15256,-109,0,0,0,Drivers,2.0
+5100075,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21797,365243,0,0,0,unavailable,2.0
+5089185,Y,N,135000.0,Working,Secondary / secondary special,Widow,Rented apartment,-23224,-3382,1,1,0,Core staff,1.0
+5009584,N,N,90000.0,Working,Secondary / secondary special,Separated,Rented apartment,-11682,-678,0,0,0,Sales staff,1.0
+5028953,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22283,365243,0,0,0,unavailable,2.0
+5035540,N,Y,126000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-24387,365243,0,0,0,unavailable,1.0
+5053707,N,Y,135000.0,Working,Secondary / secondary special,Separated,Rented apartment,-16728,-880,0,0,0,Laborers,2.0
+5135685,N,Y,292500.0,Working,Higher education,Married,Rented apartment,-13577,-1266,0,1,0,Accountants,2.0
+5114185,N,N,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8242,-801,1,0,0,Laborers,1.0
+5052846,N,Y,45000.0,Working,Secondary / secondary special,Married,Rented apartment,-15724,-1389,1,1,0,Sales staff,2.0
+5126673,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-18806,-319,0,0,0,Sales staff,1.0
+5113286,Y,Y,121500.0,Working,Secondary / secondary special,Married,Rented apartment,-11327,-101,1,1,0,Core staff,4.0
+5067714,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12682,-932,0,0,1,Managers,4.0
+5010779,Y,Y,157500.0,Working,Higher education,Married,Rented apartment,-14474,-2259,0,0,1,Core staff,3.0
+5091204,N,Y,67500.0,Working,Secondary / secondary special,Separated,Rented apartment,-11126,-2087,1,1,0,Accountants,2.0
+5142371,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-16204,-925,1,1,0,Drivers,3.0
+5135919,N,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-15988,-566,1,1,0,Laborers,4.0
+5091348,N,Y,225000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-14469,-504,0,0,0,Core staff,2.0
+5126493,N,N,450000.0,Pensioner,Secondary / secondary special,Married,Municipal or Office apartment,-21406,365243,0,0,0,unavailable,2.0
+5053140,Y,Y,234000.0,Working,Secondary / secondary special,Married,Rented apartment,-11511,-3611,0,0,0,High skill tech staff,3.0
+5079032,N,Y,135000.0,Pensioner,Basic,Married,Rented apartment,-22569,365243,0,0,0,unavailable,2.0
+5050655,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-14667,-1048,1,1,0,Accountants,2.0
+5136955,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-20551,-2057,1,1,0,unavailable,2.0
+5088871,N,Y,166500.0,Working,Secondary / secondary special,Single / not married,With parents,-9640,-612,0,0,1,Sales staff,1.0
+5117672,Y,N,81000.0,Working,Secondary / secondary special,Married,Rented apartment,-17660,-3261,1,1,0,Laborers,2.0
+5089021,Y,N,382500.0,Working,Higher education,Married,Municipal or Office apartment,-11960,-4174,0,0,0,unavailable,2.0
+5116750,N,N,238500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8794,-124,0,0,0,Security staff,2.0
+5091406,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-17579,-1904,1,0,0,Laborers,1.0
+5099880,N,Y,112500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10244,-279,0,1,1,unavailable,1.0
+5022852,N,Y,202500.0,Working,Higher education,Married,Rented apartment,-18902,-8649,0,0,0,Managers,2.0
+5022938,Y,N,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-14096,-1344,0,1,1,Accountants,1.0
+5137171,Y,N,459000.0,Working,Higher education,Married,Municipal or Office apartment,-15839,-1904,1,0,0,Managers,3.0
+5095130,N,Y,135000.0,Pensioner,Higher education,Married,Rented apartment,-21523,365243,0,1,0,unavailable,2.0
+5142459,N,Y,67500.0,Working,Higher education,Separated,Rented apartment,-18952,-499,0,1,0,Core staff,1.0
+5089292,N,N,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-18549,-1160,1,0,0,unavailable,2.0
+5090697,N,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-10916,-921,0,0,0,Accountants,3.0
+5096954,Y,Y,360000.0,Working,Higher education,Married,Rented apartment,-14206,-1403,0,1,0,Managers,3.0
+5117994,Y,N,360000.0,Working,Higher education,Married,Rented apartment,-11985,-339,0,1,0,Sales staff,4.0
+5068998,Y,Y,279000.0,Working,Higher education,Married,Rented apartment,-16187,-3731,1,1,0,Managers,3.0
+5022449,N,N,315000.0,Working,Secondary / secondary special,Separated,Rented apartment,-17570,-1978,0,0,1,Core staff,1.0
+5041203,N,Y,180000.0,Working,Higher education,Widow,Rented apartment,-23035,-2134,0,0,0,Secretaries,1.0
+5028921,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-17202,-1787,0,0,0,Sales staff,2.0
+5033613,Y,Y,117000.0,Working,Secondary / secondary special,Married,Rented apartment,-21764,-809,0,1,0,Laborers,2.0
+5045516,Y,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-11498,-4491,0,0,0,unavailable,3.0
+5137148,Y,N,292500.0,Working,Secondary / secondary special,Married,Rented apartment,-14670,-6957,0,1,0,unavailable,4.0
+5048502,Y,Y,720000.0,Working,Higher education,Widow,Rented apartment,-15031,-5422,1,1,0,Core staff,1.0
+5096904,Y,Y,157500.0,Working,Higher education,Married,Rented apartment,-11877,-1372,0,0,0,Core staff,2.0
+5033999,N,Y,148500.0,Working,Higher education,Married,Rented apartment,-16038,-1036,1,1,0,High skill tech staff,3.0
+5048301,Y,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-11091,-1161,0,0,0,Laborers,3.0
+5135448,N,Y,225000.0,Working,Secondary / secondary special,Married,With parents,-10035,-170,0,0,0,Cleaning staff,3.0
+5066591,N,N,360000.0,Working,Higher education,Married,Rented apartment,-14805,-1922,0,0,0,Sales staff,3.0
+5125429,N,Y,315000.0,Working,Higher education,Separated,Rented apartment,-22022,-12949,0,0,0,Core staff,1.0
+5113407,Y,Y,450000.0,Working,Higher education,Single / not married,Rented apartment,-10837,-588,0,0,1,Sales staff,1.0
+5089140,Y,N,202500.0,Working,Secondary / secondary special,Married,With parents,-14228,-5330,0,1,0,unavailable,2.0
+5067708,Y,Y,450000.0,Working,Higher education,Married,Rented apartment,-19087,-4434,0,1,0,Managers,2.0
+5095187,Y,Y,495000.0,Working,Secondary / secondary special,Married,Rented apartment,-16497,-1190,0,1,0,Managers,3.0
+5045250,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-13865,-1682,0,1,0,Sales staff,3.0
+5023899,N,N,90000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-18309,365243,0,0,0,unavailable,3.0
+5024284,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-15509,-1189,1,1,0,Drivers,2.0
+5028776,N,Y,247500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23267,365243,0,0,0,unavailable,2.0
+5116713,N,N,135000.0,Working,Secondary / secondary special,Separated,Municipal or Office apartment,-19124,-670,0,0,0,unavailable,1.0
+5136017,N,Y,67500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-23719,365243,0,1,0,unavailable,1.0
+5092280,N,Y,360000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22933,365243,0,0,0,unavailable,2.0
+5035417,N,Y,292500.0,Working,Higher education,Married,Rented apartment,-21111,-4816,0,0,0,Core staff,2.0
+5100022,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-14883,-1010,0,0,0,Sales staff,3.0
+5052716,N,N,180000.0,Working,Secondary / secondary special,Single / not married,With parents,-19047,-2454,0,0,0,Laborers,1.0
+5045445,N,Y,261000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23668,365243,0,0,0,unavailable,2.0
+5126617,N,N,81000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22791,365243,0,0,0,unavailable,2.0
+5091954,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15491,-504,0,0,0,Laborers,2.0
+5033520,Y,Y,180000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-12559,-5862,0,1,0,Medicine staff,5.0
+5046192,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-17280,-565,1,0,0,Managers,4.0
+5088490,Y,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-14621,-834,0,0,1,Laborers,3.0
+5104859,N,Y,112500.0,Working,Higher education,Married,Rented apartment,-12114,-4004,0,0,0,Accountants,2.0
+5021435,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-17110,-370,0,0,0,Laborers,3.0
+5132292,N,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-21440,-4060,0,0,0,Sales staff,2.0
+5105498,N,Y,202500.0,Working,Higher education,Married,Rented apartment,-10669,-1495,0,0,0,unavailable,2.0
+5139669,Y,N,202500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21720,365243,0,0,0,unavailable,2.0
+5100432,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14330,-2530,0,0,0,Core staff,3.0
+5105975,Y,N,360000.0,Working,Secondary / secondary special,Separated,Rented apartment,-15203,-2068,1,0,0,Laborers,1.0
+5132958,N,Y,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-12676,-1350,0,0,0,Waiters/barmen staff,2.0
+5026153,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-16425,-2842,0,0,0,Managers,3.0
+5061213,Y,Y,112500.0,Working,Secondary / secondary special,Separated,Rented apartment,-18973,-4489,0,1,1,Laborers,1.0
+5028238,Y,Y,292500.0,Working,Higher education,Married,Rented apartment,-16317,-2241,0,0,0,unavailable,2.0
+5033916,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-13015,-3647,0,0,0,unavailable,2.0
+5085658,N,N,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-13595,-1387,0,0,0,Laborers,1.0
+5090003,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23770,365243,0,0,0,unavailable,2.0
+5038580,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-24327,365243,0,0,0,unavailable,2.0
+5052977,Y,Y,360000.0,Working,Secondary / secondary special,Married,Rented apartment,-16521,-1359,0,1,0,Laborers,3.0
+5042016,Y,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-10376,-126,0,1,0,Drivers,2.0
+5024899,N,N,157500.0,Working,Secondary / secondary special,Widow,Municipal or Office apartment,-17460,-2681,1,1,0,Sales staff,1.0
+5140138,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-8750,-1589,0,0,0,Laborers,3.0
+5125656,Y,N,247500.0,Working,Higher education,Married,Rented apartment,-16269,-803,1,0,0,Drivers,2.0
+5067486,N,Y,180000.0,Working,Higher education,Married,Rented apartment,-12860,-4657,1,1,0,High skill tech staff,4.0
+5010398,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-14148,-1591,1,1,0,High skill tech staff,3.0
+5046565,N,N,337500.0,Working,Higher education,Married,Rented apartment,-17593,-2370,0,0,1,Managers,3.0
+5054351,N,N,157500.0,Working,Higher education,Single / not married,Rented apartment,-12870,-515,0,0,1,Sales staff,1.0
+5029462,Y,Y,112500.0,Working,Higher education,Married,Rented apartment,-10551,-3000,0,0,1,Core staff,3.0
+5069051,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-17762,-2484,0,0,0,Laborers,2.0
+5137289,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-15243,-7260,1,1,0,High skill tech staff,3.0
+5045167,Y,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-11432,-129,0,1,0,Core staff,4.0
+5149632,Y,Y,382500.0,Working,Higher education,Married,Rented apartment,-10446,-2420,0,0,0,Laborers,2.0
+5061210,Y,Y,225000.0,Working,Secondary / secondary special,Separated,Rented apartment,-17754,-1689,0,0,0,Drivers,15.0
+5085758,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-11660,-807,0,0,0,Core staff,3.0
+5085907,N,Y,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-11829,-3303,0,0,0,Core staff,5.0
+5106085,N,N,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-21388,-1830,0,0,0,Security staff,2.0
+5045620,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-14400,-2512,0,0,0,Medicine staff,3.0
+5090063,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-18575,-4113,0,0,0,Accountants,2.0
+5096007,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-9943,-554,1,0,0,Managers,3.0
+5024573,N,N,90000.0,Working,Secondary / secondary special,Married,With parents,-10253,-1462,0,0,0,Laborers,3.0
+5140183,N,Y,67500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-15161,-7190,0,0,0,Core staff,2.0
+5143024,N,N,270000.0,Working,Secondary / secondary special,Married,With parents,-11768,-622,1,1,0,Laborers,2.0
+5091930,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-18197,-657,0,0,0,unavailable,2.0
+5118195,N,N,171000.0,Working,Secondary / secondary special,Separated,Municipal or Office apartment,-16241,-8862,1,0,0,Drivers,1.0
+5139332,N,N,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-9323,-1346,0,0,0,unavailable,2.0
+5023758,Y,Y,135000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-22991,365243,0,0,0,unavailable,1.0
+5028720,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-15000,-1117,0,0,1,Managers,2.0
+5089087,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-14167,-735,0,1,0,Laborers,3.0
+5126555,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-9517,-1810,1,1,0,Laborers,3.0
+5058483,Y,Y,225000.0,Pensioner,Higher education,Separated,Rented apartment,-20689,365243,0,0,0,unavailable,1.0
+5114236,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-16723,-712,1,0,0,Managers,2.0
+5045894,N,Y,225000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-23286,365243,0,0,0,unavailable,1.0
+5041812,N,N,112500.0,Working,Higher education,Separated,Rented apartment,-14648,-2833,1,0,0,Private service staff,2.0
+5028561,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-15653,-5500,0,0,1,Core staff,2.0
+5028786,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15836,-3034,0,0,0,unavailable,2.0
+5148891,Y,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-18178,-1751,1,0,0,Waiters/barmen staff,2.0
+5024527,N,Y,270000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-20967,365243,0,1,0,unavailable,1.0
+5125612,Y,Y,247500.0,Working,Higher education,Married,Rented apartment,-19796,-1200,0,0,1,High skill tech staff,2.0
+5115637,Y,Y,382500.0,Working,Higher education,Separated,Rented apartment,-14806,-710,1,1,0,Managers,1.0
+5045287,N,Y,67500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-17623,-9260,0,0,0,Medicine staff,1.0
+5010147,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12500,-5762,0,0,0,Managers,3.0
+5091538,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15595,-3183,0,1,0,Laborers,2.0
+5050841,N,N,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-14804,-2754,0,0,0,Laborers,1.0
+5117008,N,Y,157500.0,Working,Secondary / secondary special,Separated,With parents,-11068,-1403,0,0,0,unavailable,2.0
+5024813,N,Y,360000.0,Pensioner,Higher education,Married,Rented apartment,-22295,365243,0,0,0,unavailable,2.0
+5137052,Y,N,99000.0,Pensioner,Higher education,Married,Rented apartment,-24189,365243,0,1,0,unavailable,2.0
+5114353,Y,N,180000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-9810,-2993,1,0,0,unavailable,2.0
+5090696,N,N,315000.0,Working,Higher education,Married,Rented apartment,-16188,-309,1,1,1,Sales staff,2.0
+5091226,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-17247,-2208,1,1,0,Managers,2.0
+5113189,N,Y,135000.0,Working,Secondary / secondary special,Married,With parents,-10190,-279,0,0,0,unavailable,3.0
+5050650,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-14667,-1048,1,1,0,Accountants,2.0
+5111087,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-12910,-359,0,1,0,Drivers,3.0
+5025195,Y,Y,166500.0,Working,Secondary / secondary special,Married,Rented apartment,-21109,-8555,0,0,0,Laborers,2.0
+5149795,N,N,247500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-8793,-1051,0,0,0,Drivers,2.0
+5126752,Y,N,135000.0,Working,Secondary / secondary special,Married,With parents,-16625,-561,0,0,0,unavailable,4.0
+5113218,N,Y,67500.0,Working,Secondary / secondary special,Single / not married,With parents,-9130,-2105,0,0,0,High skill tech staff,1.0
+5023200,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-15790,-1939,0,0,0,Drivers,4.0
+5091207,N,Y,135000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-14841,365243,0,0,0,unavailable,1.0
+5037242,N,Y,220500.0,Working,Secondary / secondary special,Married,Rented apartment,-10020,-2489,0,0,1,Sales staff,2.0
+5096010,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-9943,-554,1,0,0,Managers,3.0
+5113696,Y,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-15174,-70,1,1,1,Sales staff,3.0
+5065413,N,Y,94500.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-20851,365243,0,0,0,unavailable,1.0
+5010606,N,Y,65250.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-19897,365243,0,1,0,unavailable,1.0
+5089226,N,N,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23027,365243,0,1,0,unavailable,2.0
+5052629,N,Y,225000.0,Pensioner,Secondary / secondary special,Single / not married,Municipal or Office apartment,-23695,365243,0,0,0,unavailable,1.0
+5114371,N,N,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-10525,-863,1,1,0,unavailable,4.0
+5115611,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-14523,-3420,0,0,0,Core staff,2.0
+5148548,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-18222,-5555,0,0,0,unavailable,2.0
+5053971,Y,N,337500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9766,-303,1,0,1,unavailable,1.0
+5149272,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-22234,-1506,0,1,0,Realty agents,2.0
+5135947,N,Y,270000.0,Working,Higher education,Single / not married,Rented apartment,-15222,-3153,0,1,0,Laborers,1.0
+5142710,Y,N,121500.0,Working,Secondary / secondary special,Married,Rented apartment,-15416,-1688,1,1,0,unavailable,2.0
+5112831,N,Y,90000.0,Working,Secondary / secondary special,Married,With parents,-11644,-635,0,0,0,Sales staff,3.0
+5135724,Y,N,360000.0,Working,Higher education,Married,Municipal or Office apartment,-14980,-2847,0,1,0,Managers,3.0
+5100332,N,Y,180000.0,Working,Secondary / secondary special,Married,With parents,-14746,-2714,0,0,0,Laborers,2.0
+5065709,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-10361,-269,1,0,0,Drivers,2.0
+5052803,N,Y,81000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-19210,-2454,0,1,0,unavailable,1.0
+5090015,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12048,-1587,0,0,0,Laborers,2.0
+5069172,N,N,193500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-17826,-201,0,1,0,Laborers,1.0
+5025009,N,N,279000.0,Working,Secondary / secondary special,Married,Rented apartment,-20027,-2315,1,0,0,unavailable,2.0
+5126349,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15218,-2265,0,1,0,Managers,2.0
+5054608,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21076,365243,0,0,0,unavailable,2.0
+5085930,N,Y,225000.0,Working,Higher education,Single / not married,Rented apartment,-20470,-9269,0,0,0,Core staff,1.0
+5051051,Y,N,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-22407,-2174,0,0,0,Laborers,2.0
+5041493,Y,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-12821,-155,0,0,0,Laborers,2.0
+5143250,N,N,108000.0,Working,Secondary / secondary special,Married,Rented apartment,-13596,-1323,1,1,0,Core staff,4.0
+5115604,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-14523,-3420,0,0,0,Core staff,2.0
+5114294,N,N,112500.0,Working,Secondary / secondary special,Widow,Rented apartment,-19295,-5246,1,0,0,unavailable,1.0
+5143342,N,N,216000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-12946,-2418,0,0,1,Laborers,3.0
+5024385,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-12555,-1858,0,0,0,Core staff,2.0
+5061337,N,Y,94500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-24302,365243,0,0,0,unavailable,1.0
+5050812,Y,N,270000.0,Working,Higher education,Married,Rented apartment,-13144,-682,1,1,0,unavailable,4.0
+5037283,N,Y,103500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23244,365243,0,0,0,unavailable,2.0
+5091388,Y,Y,337500.0,Working,Secondary / secondary special,Married,Rented apartment,-15369,-5618,0,0,0,unavailable,2.0
+5009954,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-16076,-7679,0,0,0,unavailable,2.0
+5135845,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-16234,-6075,0,1,0,Laborers,3.0
+5054525,N,N,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-16611,-8369,0,0,0,unavailable,4.0
+5061558,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-15047,-1720,1,0,0,Laborers,2.0
+5116810,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-18365,-701,0,0,0,High skill tech staff,2.0
+5041538,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19295,365243,0,0,0,unavailable,3.0
+5079301,N,Y,243000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-13345,-5276,1,0,0,Laborers,2.0
+5025661,N,N,180000.0,Working,Higher education,Married,Rented apartment,-11075,-2808,1,0,0,Core staff,4.0
+5041130,N,Y,225000.0,Working,Higher education,Single / not married,Rented apartment,-17031,-642,0,0,0,Core staff,1.0
+5079268,N,Y,225000.0,Working,Higher education,Married,Rented apartment,-10029,-2705,0,0,0,unavailable,4.0
+5132645,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-13095,-499,1,0,0,unavailable,2.0
+5085730,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-19638,-412,0,1,0,unavailable,2.0
+5023075,Y,Y,81000.0,Working,Higher education,Married,Rented apartment,-12615,-843,0,0,0,Cooking staff,2.0
+5148441,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8442,-410,0,0,0,Core staff,1.0
+5114420,N,N,157500.0,Working,Higher education,Married,Rented apartment,-11965,-3876,0,0,0,Core staff,2.0
+5132794,N,Y,157500.0,Working,Secondary / secondary special,Separated,Rented apartment,-18540,-1534,0,0,0,Sales staff,1.0
+5010465,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12622,-678,0,1,0,Sales staff,3.0
+5091687,N,Y,292500.0,Working,Higher education,Single / not married,Rented apartment,-15303,-108,0,0,0,unavailable,1.0
+5117588,N,N,135000.0,Working,Secondary / secondary special,Separated,Rented apartment,-13434,-1254,1,0,0,Laborers,3.0
+5009182,Y,N,229500.0,Working,Secondary / secondary special,Married,Rented apartment,-18325,-1256,0,0,0,Laborers,2.0
+5035816,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-17798,-859,0,0,0,Sales staff,2.0
+5066390,N,Y,675000.0,Working,Higher education,Married,Rented apartment,-15944,-1467,0,1,0,unavailable,3.0
+5104868,N,Y,112500.0,Working,Higher education,Married,Rented apartment,-12114,-4004,0,0,0,Accountants,2.0
+5148557,N,Y,247500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23132,365243,0,0,0,unavailable,2.0
+5065705,Y,Y,225000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-17454,365243,0,1,0,unavailable,1.0
+5009278,N,N,130500.0,Working,Secondary / secondary special,Married,Rented apartment,-15140,-4816,0,1,0,Cleaning staff,2.0
+5036966,N,Y,220500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20240,365243,0,0,0,unavailable,3.0
+5062551,N,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-12099,-2207,0,0,1,unavailable,5.0
+5126539,Y,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-10238,-3453,0,0,0,Laborers,2.0
+5135346,N,Y,112500.0,Working,Higher education,Married,Rented apartment,-20103,-555,0,0,0,Security staff,2.0
+5111119,N,Y,315000.0,Working,Higher education,Married,Rented apartment,-11602,-1455,0,0,0,Managers,3.0
+5135892,N,Y,49500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-24143,365243,0,1,0,unavailable,1.0
+5021309,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-16896,-248,0,0,0,Laborers,2.0
+5100415,N,N,135000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-14456,-4478,1,0,0,Laborers,3.0
+5065548,N,Y,157500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-17401,-1144,0,1,0,unavailable,2.0
+5061614,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-11378,-867,0,1,0,Drivers,3.0
+5058398,N,Y,54000.0,Working,Secondary / secondary special,Married,Rented apartment,-18651,-7752,1,1,0,unavailable,2.0
+5053610,N,Y,112500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-20589,-3680,0,0,0,unavailable,2.0
+5090216,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-10712,-217,0,0,0,Laborers,2.0
+5045521,N,N,225000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21383,365243,0,0,0,unavailable,2.0
+5061791,N,N,113400.0,Pensioner,Higher education,Married,Rented apartment,-20219,365243,0,0,0,unavailable,2.0
+5068400,N,Y,202500.0,Pensioner,Higher education,Single / not married,Rented apartment,-21344,365243,0,1,1,unavailable,1.0
+5137037,N,N,103500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20123,365243,0,0,0,unavailable,2.0
+5145846,N,Y,256500.0,Working,Higher education,Married,Rented apartment,-17594,-1315,0,1,0,Managers,3.0
+5125299,N,Y,148500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20846,365243,0,0,0,unavailable,2.0
+5113592,N,Y,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-14526,-254,0,0,0,Cleaning staff,2.0
+5106071,Y,N,261000.0,Working,Higher education,Married,Municipal or Office apartment,-11117,-2676,0,0,0,Core staff,2.0
+5096754,Y,N,328500.0,Working,Higher education,Married,Rented apartment,-14897,-2654,1,1,0,unavailable,2.0
+5095584,N,N,360000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9834,-615,0,0,0,Core staff,1.0
+5149412,N,N,135000.0,Working,Secondary / secondary special,Married,With parents,-13689,-1172,0,0,0,Sales staff,3.0
+5116297,Y,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-16468,-3304,1,1,0,Drivers,4.0
+5025867,N,Y,112500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-21041,365243,0,0,0,unavailable,1.0
+5091498,N,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-24255,365243,0,0,0,unavailable,2.0
+5118278,N,N,112500.0,Pensioner,Secondary / secondary special,Married,Municipal or Office apartment,-21363,365243,0,0,0,unavailable,2.0
+5024545,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-14071,-3806,1,0,0,Laborers,2.0
+5054002,N,N,180000.0,Pensioner,Higher education,Single / not married,Rented apartment,-21191,365243,0,1,0,unavailable,1.0
+5088863,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-20643,-6456,0,0,1,Core staff,2.0
+5036035,N,Y,225000.0,Working,Higher education,Single / not married,Rented apartment,-15188,-1072,0,0,0,unavailable,1.0
+5052659,N,Y,103500.0,Working,Secondary / secondary special,Married,Rented apartment,-10396,-564,0,0,1,IT staff,2.0
+5008936,N,Y,297000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-15519,-3234,0,0,0,Laborers,1.0
+5092110,N,N,270000.0,Working,Secondary / secondary special,Single / not married,With parents,-9649,-1996,0,0,1,Core staff,1.0
+5143521,N,Y,247500.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-23280,365243,0,0,0,unavailable,1.0
+5065376,N,Y,215550.0,Working,Higher education,Married,Rented apartment,-10429,-931,0,1,0,High skill tech staff,2.0
+5021258,N,Y,135000.0,Pensioner,Higher education,Married,Rented apartment,-22747,365243,0,0,0,unavailable,2.0
+5135610,Y,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-16197,-3000,0,0,0,Drivers,2.0
+5096088,N,N,67500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-18165,-11451,0,0,0,Cooking staff,2.0
+5045748,Y,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-14893,-2604,0,0,0,Laborers,2.0
+5089201,N,N,135000.0,Working,Higher education,Married,Rented apartment,-13155,-2927,1,0,0,Managers,2.0
+5100167,N,Y,76500.0,Working,Secondary / secondary special,Married,Rented apartment,-15410,-188,1,1,0,Waiters/barmen staff,2.0
+5139494,N,Y,225000.0,Working,Secondary / secondary special,Married,With parents,-16110,-401,0,0,0,Cooking staff,2.0
+5132896,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-10438,-2264,0,1,0,unavailable,2.0
+5095340,N,Y,135000.0,Working,Higher education,Married,Rented apartment,-20222,-218,0,0,0,Laborers,2.0
+5048368,N,N,108000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-22182,365243,0,0,0,unavailable,1.0
+5115500,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-16084,-1382,0,0,0,Laborers,4.0
+5089032,N,N,171000.0,Working,Secondary / secondary special,Married,Rented apartment,-17508,-1648,0,0,0,Laborers,2.0
+5143006,Y,N,99000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-18692,365243,0,1,0,unavailable,3.0
+5067599,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14926,-789,0,0,0,Cooking staff,2.0
+5145737,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-20739,-117,0,0,0,Laborers,3.0
+5050548,N,N,225000.0,Working,Higher education,Married,Rented apartment,-16768,-3088,1,0,0,Laborers,4.0
+5051199,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-13524,-1293,0,1,0,unavailable,3.0
+5029622,N,Y,225000.0,Working,Secondary / secondary special,Widow,Rented apartment,-22646,-5283,0,0,0,Cleaning staff,1.0
+5009090,Y,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-12628,-4025,0,0,0,Drivers,2.0
+5089955,N,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-12755,-2105,0,0,0,unavailable,3.0
+5045876,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-9725,-139,0,0,0,Drivers,3.0
+5092138,N,N,121500.0,Working,Higher education,Single / not married,Rented apartment,-11162,-1327,1,1,0,Laborers,1.0
+5062593,Y,Y,135000.0,Working,Higher education,Married,Rented apartment,-8972,-145,0,0,1,Core staff,3.0
+5021810,Y,Y,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-11454,-1678,0,1,1,Cooking staff,3.0
+5042256,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-16133,-582,0,0,0,Sales staff,2.0
+5041165,N,Y,108000.0,Working,Secondary / secondary special,Married,Rented apartment,-12098,-2226,1,0,0,Sales staff,2.0
+5096492,N,N,103500.0,Working,Higher education,Married,Rented apartment,-12987,-3537,0,1,0,High skill tech staff,4.0
+5045125,N,Y,202500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-21126,365243,0,0,0,unavailable,1.0
+5085954,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12394,-381,0,0,0,Laborers,2.0
+5089364,N,N,202500.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-22361,365243,0,1,0,unavailable,1.0
+5054478,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12564,-819,1,1,0,Private service staff,3.0
+5054015,Y,N,292500.0,Working,Secondary / secondary special,Married,Rented apartment,-19939,-6298,1,0,0,Managers,2.0
+5008870,N,Y,211500.0,Working,Secondary / secondary special,Married,Rented apartment,-16212,-7099,0,0,0,Core staff,3.0
+5067075,N,Y,171000.0,Working,Basic,Widow,Rented apartment,-18672,-2593,0,1,0,Medicine staff,1.0
+5033977,N,Y,144000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-11175,-322,0,0,0,Cooking staff,1.0
+5105542,Y,N,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-10191,-2218,0,0,0,Drivers,2.0
+5033514,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-15952,-384,1,0,0,Sales staff,3.0
+5053254,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-18667,-2150,1,0,0,Managers,2.0
+5021911,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-10328,-1156,0,0,0,Laborers,2.0
+5149452,Y,Y,238500.0,Working,Higher education,Married,With parents,-12187,-2602,0,0,0,Laborers,2.0
+5037054,Y,Y,265500.0,Working,Secondary / secondary special,Married,Rented apartment,-15470,-6732,0,0,0,Drivers,2.0
+5041762,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-15145,-3654,0,1,0,Managers,2.0
+5066926,N,Y,391500.0,Working,Secondary / secondary special,Separated,Rented apartment,-17522,-1526,0,0,0,Security staff,1.0
+5061783,N,Y,157500.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-21049,365243,0,0,0,unavailable,1.0
+5150238,Y,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-19084,-128,1,0,0,Laborers,2.0
+5067145,N,N,247500.0,Working,Higher education,Single / not married,With parents,-10343,-2058,0,0,1,Sales staff,1.0
+5113718,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-16415,-3054,0,0,1,Private service staff,3.0
+5149694,N,N,157500.0,Working,Secondary / secondary special,Married,With parents,-13943,-6407,0,0,0,Core staff,2.0
+5099911,N,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-10020,-1587,1,1,0,Sales staff,4.0
+5022754,N,N,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-10800,-3166,0,0,0,Sales staff,2.0
+5061173,Y,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-13300,-3668,0,1,0,unavailable,5.0
+5058406,Y,Y,247500.0,Working,Higher education,Married,Rented apartment,-12843,-2609,0,0,0,Managers,2.0
+5116631,Y,Y,157500.0,Working,Higher education,Married,Rented apartment,-10388,-2437,0,0,0,unavailable,2.0
+5054299,Y,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-14060,-7364,1,0,0,Cooking staff,2.0
+5088160,N,Y,270000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-12922,-923,0,0,0,Core staff,1.0
+5069325,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-20311,-597,0,0,0,Cleaning staff,2.0
+5125399,Y,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-10066,-834,0,0,0,Laborers,2.0
+5041646,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-14186,-1736,0,1,0,Sales staff,3.0
+5149220,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-12488,-747,0,0,1,Laborers,2.0
+5023883,N,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21365,365243,0,0,0,unavailable,2.0
+5126277,N,N,162000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21244,365243,0,0,0,unavailable,2.0
+5114631,N,Y,81000.0,Working,Secondary / secondary special,Married,Rented apartment,-19738,-286,1,0,0,Sales staff,2.0
+5045932,N,N,247500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-15037,-2208,0,0,0,Laborers,1.0
+5135378,N,Y,387000.0,Working,Secondary / secondary special,Married,Rented apartment,-20082,-4979,0,0,0,Sales staff,2.0
+5132529,N,Y,144000.0,Working,Higher education,Single / not married,Rented apartment,-13190,-4943,0,0,0,unavailable,1.0
+5142773,Y,N,184500.0,Working,Higher education,Married,Rented apartment,-12518,-926,1,0,0,Drivers,4.0
+5065462,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-19004,-1570,0,0,0,unavailable,2.0
+5125952,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14559,-2599,0,0,0,Laborers,2.0
+5024095,Y,N,126000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-11978,-5206,1,0,0,Core staff,1.0
+5010273,N,Y,562500.0,Working,Secondary / secondary special,Married,Rented apartment,-13790,-5639,1,1,0,unavailable,3.0
+5112848,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-13217,-98,0,1,0,Sales staff,2.0
+5041868,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-15774,-2347,1,0,0,unavailable,3.0
+5106037,Y,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-15207,-3201,0,0,0,Core staff,4.0
+5009717,N,N,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9380,-1713,1,1,0,unavailable,1.0
+5022894,N,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-13326,-2588,1,0,0,Laborers,2.0
+5068723,N,N,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-14817,-1115,0,0,1,Cooking staff,1.0
+5022470,Y,Y,405000.0,Working,Secondary / secondary special,Married,Rented apartment,-17309,-3500,0,0,0,unavailable,2.0
+5117045,N,N,112500.0,Working,Secondary / secondary special,Single / not married,Municipal or Office apartment,-17568,-5666,0,0,0,High skill tech staff,1.0
+5010040,N,Y,292500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21582,365243,0,0,0,unavailable,2.0
+5036625,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-14999,-321,1,1,0,Drivers,3.0
+5037091,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-18867,-5819,0,0,0,Laborers,2.0
+5026622,N,N,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-13766,-3817,1,0,0,unavailable,3.0
+5033443,N,N,225000.0,Working,Higher education,Married,Rented apartment,-12315,-3702,0,0,0,Sales staff,5.0
+5052805,N,Y,81000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-19210,-2454,0,1,0,unavailable,1.0
+5024220,Y,Y,540000.0,Working,Higher education,Married,Rented apartment,-15702,-185,0,1,0,unavailable,2.0
+5114500,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-9930,-2324,0,0,1,Laborers,4.0
+5117551,Y,N,148500.0,Working,Secondary / secondary special,Married,Rented apartment,-12930,-2865,1,1,0,Drivers,3.0
+5118627,Y,N,675000.0,Working,Secondary / secondary special,Married,Rented apartment,-13808,-1831,0,0,0,Managers,5.0
+5105641,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20907,365243,0,0,0,unavailable,2.0
+5097145,Y,N,405000.0,Working,Secondary / secondary special,Married,Rented apartment,-14740,-1434,0,1,0,Managers,3.0
+5143483,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-11935,-1200,0,0,0,Drivers,3.0
+5089589,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-13077,-1525,1,0,0,Drivers,2.0
+5096707,N,N,166500.0,Working,Secondary / secondary special,Married,Rented apartment,-16416,-4692,0,1,0,Managers,2.0
+5010373,Y,Y,270000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23768,365243,0,0,0,unavailable,2.0
+5054494,N,Y,57150.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-22936,365243,0,0,0,unavailable,1.0
+5097068,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-16282,-2042,0,1,0,Managers,3.0
+5029760,Y,N,157500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-21369,-12253,0,1,0,Drivers,2.0
+5113712,Y,Y,405000.0,Working,Secondary / secondary special,Married,Rented apartment,-16962,-407,0,1,1,Laborers,3.0
+5050636,N,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-13556,-2966,0,0,0,Managers,2.0
+5100428,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-10746,-1100,0,1,0,Sales staff,3.0
+5024342,Y,Y,198000.0,Working,Secondary / secondary special,Married,Rented apartment,-21111,-1159,0,0,0,Drivers,2.0
+5062016,N,N,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-11342,-2389,0,0,0,unavailable,1.0
+5112769,Y,N,315000.0,Working,Higher education,Married,Rented apartment,-11025,-2065,1,1,1,unavailable,3.0
+5053968,Y,N,337500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9766,-303,1,0,1,unavailable,1.0
+5095227,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-16032,-1221,0,0,0,Drivers,4.0
+5045660,Y,Y,180000.0,Working,Higher education,Single / not married,Rented apartment,-8507,-1082,0,0,0,Core staff,1.0
+5105500,N,Y,202500.0,Working,Higher education,Married,Rented apartment,-10669,-1495,0,0,0,unavailable,2.0
+5067287,N,Y,90000.0,Working,Secondary / secondary special,Separated,Rented apartment,-19867,-720,0,0,1,unavailable,1.0
+5091206,N,Y,135000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-14841,365243,0,0,0,unavailable,1.0
+5096147,N,N,180000.0,Working,Secondary / secondary special,Single / not married,With parents,-10267,-2593,1,0,0,Sales staff,1.0
+5126422,N,N,90000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22248,365243,0,1,0,unavailable,2.0
+5022158,Y,Y,180000.0,Working,Higher education,Married,Rented apartment,-11719,-2866,0,1,1,unavailable,4.0
+5048340,N,N,157500.0,Working,Higher education,Married,Rented apartment,-19657,-1710,0,0,0,Sales staff,2.0
+5067608,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-15515,-2485,0,0,1,Sales staff,2.0
+5026515,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-13028,-104,0,1,0,Sales staff,4.0
+5054456,Y,Y,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8308,-1308,1,1,0,unavailable,1.0
+5065506,Y,N,135000.0,Working,Higher education,Married,Municipal or Office apartment,-12523,-2482,0,0,0,Managers,3.0
+5095006,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-10640,-1494,1,1,0,Laborers,4.0
+5067450,Y,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22880,365243,0,0,0,unavailable,2.0
+5117178,N,Y,135000.0,Working,Higher education,Married,Rented apartment,-19780,-7097,0,0,0,Laborers,2.0
+5036708,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-16942,-1680,0,0,0,Laborers,2.0
+5056020,N,N,121500.0,Working,Secondary / secondary special,Married,Rented apartment,-16119,-3312,0,0,0,unavailable,2.0
+5094952,N,Y,112500.0,Pensioner,Higher education,Single / not married,Rented apartment,-21775,365243,0,0,0,unavailable,1.0
+5117772,Y,N,144000.0,Working,Secondary / secondary special,Widow,Rented apartment,-14407,-1345,0,0,0,HR staff,1.0
+5118233,N,N,315000.0,Working,Higher education,Married,Rented apartment,-10993,-949,1,0,0,unavailable,2.0
+5025145,N,Y,387000.0,Working,Secondary / secondary special,Separated,Rented apartment,-18147,-642,0,0,0,Sales staff,1.0
+5150211,N,Y,81000.0,Working,Secondary / secondary special,Married,Rented apartment,-15342,-5788,0,0,0,Low-skill Laborers,2.0
+5036125,N,Y,616500.0,Working,Higher education,Married,Rented apartment,-13242,-4239,0,0,0,Managers,3.0
+5146011,Y,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-12737,-5454,0,0,0,unavailable,2.0
+5054473,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-12564,-819,1,1,0,Private service staff,3.0
+5022338,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9655,-156,0,0,0,unavailable,1.0
+5111062,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-17401,-3099,0,1,0,unavailable,2.0
+5029108,Y,N,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-13230,-3643,0,0,1,High skill tech staff,3.0
+5100465,N,Y,72000.0,Working,Basic,Married,Rented apartment,-18449,-187,1,0,0,Laborers,2.0
+5023205,Y,N,135000.0,Working,Higher education,Married,Rented apartment,-19354,-5287,0,1,0,Core staff,2.0
+5149042,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-19750,-3608,0,0,0,Laborers,2.0
+5023280,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-16701,-2457,0,0,0,Sales staff,2.0
+5054398,N,N,90000.0,Working,Higher education,Married,Rented apartment,-13754,-2891,1,1,0,unavailable,2.0
+5090314,N,Y,99000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-22814,365243,0,1,0,unavailable,1.0
+5041076,N,N,112500.0,Working,Higher education,Married,Rented apartment,-12094,-3079,0,0,0,Laborers,5.0
+5068110,N,Y,450000.0,Working,Higher education,Single / not married,Rented apartment,-20142,-3093,0,1,1,Core staff,1.0
+5143560,N,N,202500.0,Working,Secondary / secondary special,Married,With parents,-10954,-745,0,0,0,Drivers,4.0
+5024984,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-18217,-216,0,0,0,Security staff,2.0
+5067948,Y,N,144000.0,Working,Higher education,Married,Rented apartment,-16830,-3458,0,0,0,unavailable,2.0
+5148437,N,Y,202500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8442,-410,0,0,0,Core staff,1.0
+5096117,Y,N,292500.0,Working,Secondary / secondary special,Separated,Municipal or Office apartment,-17967,-4937,0,0,0,Managers,1.0
+5052711,N,Y,90000.0,Working,Higher education,Married,Rented apartment,-12496,-597,0,0,0,unavailable,4.0
+5146031,N,Y,360000.0,Working,Higher education,Married,Rented apartment,-11089,-3902,0,1,0,Core staff,2.0
+5042319,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-8637,-95,0,1,1,Core staff,2.0
+5009149,Y,N,315000.0,Working,Higher education,Married,Rented apartment,-15825,-3720,1,1,0,Managers,2.0
+5113396,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-8552,-1562,0,0,0,Sales staff,2.0
+5038613,N,N,112500.0,Working,Higher education,Married,With parents,-12331,-3272,0,0,0,Core staff,3.0
+5125667,N,N,45000.0,Working,Secondary / secondary special,Married,Rented apartment,-18532,-3666,1,1,0,Core staff,2.0
+5069339,Y,Y,247500.0,Working,Higher education,Married,Rented apartment,-9425,-232,0,0,0,Sales staff,3.0
+5026018,N,Y,81000.0,Working,Secondary / secondary special,Married,Rented apartment,-19893,-5365,1,1,0,unavailable,2.0
+5054315,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-20285,-1734,1,1,0,High skill tech staff,2.0
+5065313,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-15645,-4280,0,0,0,Core staff,3.0
+5090023,N,Y,126000.0,Working,Higher education,Married,Rented apartment,-10075,-460,0,1,1,Core staff,2.0
+5149698,N,Y,171000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10145,-107,0,0,0,Laborers,1.0
+5037209,N,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-13714,-987,1,1,0,Sales staff,4.0
+5126851,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-12415,-3667,0,1,0,Core staff,3.0
+5053562,Y,Y,193500.0,Working,Secondary / secondary special,Married,Rented apartment,-10439,-2250,1,0,0,Core staff,3.0
+5042043,N,N,81000.0,Pensioner,Higher education,Single / not married,Rented apartment,-23291,365243,0,1,0,unavailable,1.0
+5036959,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-21825,-6671,0,0,0,Laborers,2.0
+5042320,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-8637,-95,0,1,1,Core staff,2.0
+5067243,Y,Y,391500.0,Working,Secondary / secondary special,Married,Rented apartment,-16995,-7264,0,0,0,Core staff,2.0
+5062161,N,Y,166500.0,Working,Higher education,Widow,Rented apartment,-20422,-2328,0,0,0,Cleaning staff,1.0
+5125363,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-12222,-195,0,0,0,Drivers,2.0
+5100076,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21797,365243,0,0,0,unavailable,2.0
+5036999,N,Y,177012.0,Pensioner,Secondary / secondary special,Married,Municipal or Office apartment,-22455,365243,0,0,0,unavailable,2.0
+5045220,N,N,45000.0,Working,Secondary / secondary special,Married,Rented apartment,-11070,-645,1,0,0,Sales staff,3.0
+5116509,Y,Y,202500.0,Working,Higher education,Married,Rented apartment,-15978,-3472,1,1,0,Core staff,2.0
+5143505,N,Y,121500.0,Working,Higher education,Married,Rented apartment,-11981,-2965,1,0,0,Accountants,3.0
+5140180,N,Y,99000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9759,-2410,0,0,0,unavailable,1.0
+5038866,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-14488,-1630,0,1,0,Laborers,3.0
+5089907,N,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-13336,-1436,0,0,0,Low-skill Laborers,2.0
+5062234,Y,N,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-19441,-4064,0,0,0,Managers,2.0
+5069343,Y,Y,247500.0,Working,Higher education,Married,Rented apartment,-9425,-232,0,0,0,Sales staff,3.0
+5117771,Y,N,144000.0,Working,Secondary / secondary special,Widow,Rented apartment,-14407,-1345,0,0,0,HR staff,1.0
+5142339,Y,N,180000.0,Working,Higher education,Married,Rented apartment,-12709,-3193,0,0,0,Managers,4.0
+5046120,N,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-20301,-3092,1,1,0,Managers,2.0
+5142752,N,N,81000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-17876,-377,1,1,0,Private service staff,1.0
+5150052,N,Y,283500.0,Working,Secondary / secondary special,Married,Rented apartment,-17958,-655,0,0,0,Sales staff,2.0
+5113944,Y,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23324,365243,0,1,0,unavailable,2.0
+5143540,N,Y,270000.0,Working,Higher education,Single / not married,Rented apartment,-16668,-377,0,0,0,Sales staff,1.0
+5091228,N,Y,360000.0,Working,Secondary / secondary special,Married,Rented apartment,-19330,-777,0,0,0,Drivers,2.0
+5126166,N,N,112500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-12461,-714,0,1,0,Medicine staff,4.0
+5026054,Y,Y,315000.0,Working,Higher education,Married,Rented apartment,-10580,-2566,0,0,0,Core staff,3.0
+5062306,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-19798,-4581,0,1,0,unavailable,2.0
+5091618,Y,Y,135000.0,Working,Higher education,Married,Rented apartment,-12013,-3973,1,0,0,Accountants,2.0
+5054640,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-13542,-424,0,1,0,Sales staff,4.0
+5033895,N,N,135000.0,Working,Secondary / secondary special,Married,With parents,-11296,-1670,0,0,0,Core staff,4.0
+5146572,Y,Y,135000.0,Working,Secondary / secondary special,Married,With parents,-16271,-3111,0,0,0,Core staff,2.0
+5117987,N,Y,32400.0,Working,Secondary / secondary special,Married,Rented apartment,-19200,-5637,0,0,0,Managers,2.0
+5139856,N,Y,157500.0,Working,Secondary / secondary special,Separated,Rented apartment,-19097,-674,0,0,0,Core staff,1.0
+5067717,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12682,-932,0,0,1,Managers,4.0
+5149138,Y,Y,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-10952,-3577,1,0,0,Laborers,2.0
+5028308,N,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-11888,-295,0,0,0,Security staff,2.0
+5023304,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-10502,-1878,0,0,0,Laborers,3.0
+5096666,Y,N,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-14400,365243,0,1,0,unavailable,2.0
+5042187,N,N,135000.0,Working,Higher education,Married,Rented apartment,-12490,-1191,1,1,0,Core staff,2.0
+5079167,Y,N,202500.0,Working,Secondary / secondary special,Married,With parents,-13720,-1394,0,0,0,Laborers,2.0
+5125701,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-10000,-1779,0,0,0,Laborers,3.0
+5140064,N,N,225000.0,Working,Higher education,Married,Rented apartment,-18852,-7037,0,0,0,unavailable,2.0
+5022307,N,Y,90000.0,Working,Secondary / secondary special,Separated,Rented apartment,-19042,-3319,0,0,0,unavailable,1.0
+5045540,Y,N,225000.0,Working,Higher education,Married,With parents,-10937,-1539,0,0,0,High skill tech staff,4.0
+5118621,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-14687,-7401,1,1,0,High skill tech staff,3.0
+5066588,Y,Y,76500.0,Working,Secondary / secondary special,Married,Rented apartment,-12380,-2287,1,1,0,High skill tech staff,2.0
+5079298,N,Y,117000.0,Working,Secondary / secondary special,Married,Rented apartment,-9409,-1029,0,0,0,Laborers,2.0
+5021955,N,Y,67500.0,Working,Secondary / secondary special,Single / not married,With parents,-9130,-2105,0,0,0,High skill tech staff,1.0
+5143235,Y,Y,1575000.0,Working,Higher education,Single / not married,Rented apartment,-10142,-2479,0,0,0,Managers,2.0
+5061449,N,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-18114,-10121,0,0,0,High skill tech staff,2.0
+5088475,N,Y,94500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22140,365243,0,0,0,unavailable,2.0
+5132303,Y,Y,184500.0,Working,Secondary / secondary special,Married,Rented apartment,-12298,-1200,0,0,0,Drivers,2.0
+5092320,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-12347,-2057,0,0,0,Laborers,2.0
+5009999,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12330,-2809,0,1,1,Accountants,3.0
+5115466,N,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21008,365243,0,0,0,unavailable,2.0
+5114485,Y,Y,315000.0,Pensioner,Higher education,Married,Rented apartment,-23313,365243,0,0,0,unavailable,2.0
+5090606,Y,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10898,-401,0,0,0,unavailable,2.0
+5065759,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-19483,-2765,1,0,0,Laborers,2.0
+5137013,N,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-21729,-4249,1,1,1,Laborers,2.0
+5118544,Y,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-18279,-1741,0,1,0,Sales staff,2.0
+5069379,N,Y,337500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-16717,-1267,0,0,0,High skill tech staff,1.0
+5090355,N,Y,121500.0,Working,Secondary / secondary special,Married,Rented apartment,-15441,-433,0,0,0,unavailable,3.0
+5009062,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-10450,-2077,0,0,0,Sales staff,2.0
+5089933,Y,N,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-19170,-4965,0,0,0,Laborers,2.0
+5117845,N,N,162000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19694,365243,0,0,0,unavailable,2.0
+5023151,N,Y,315000.0,Working,Higher education,Married,Rented apartment,-11400,-1513,0,0,0,Managers,3.0
+5137053,Y,N,99000.0,Pensioner,Higher education,Married,Rented apartment,-24189,365243,0,1,0,unavailable,2.0
+5052661,N,Y,103500.0,Working,Secondary / secondary special,Married,Rented apartment,-10396,-564,0,0,1,IT staff,2.0
+5066597,N,N,360000.0,Working,Higher education,Married,Rented apartment,-14805,-1922,0,0,0,Sales staff,3.0
+5096013,N,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-9943,-554,1,0,0,Managers,3.0
+5008880,N,Y,126000.0,Working,Higher education,Married,Rented apartment,-12411,-1773,0,0,1,Managers,4.0
+5062199,N,Y,112500.0,Working,Higher education,Married,Rented apartment,-17472,-1202,1,1,0,unavailable,2.0
+5114024,Y,N,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-12415,-3695,0,0,0,Managers,2.0
+5142085,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-20018,-1732,0,0,0,Laborers,2.0
+5090055,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-18575,-4113,0,0,0,Accountants,2.0
+5115892,Y,N,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-17455,-1321,0,0,0,Drivers,2.0
+5126402,N,N,157500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21253,365243,0,1,0,unavailable,2.0
+5061778,N,Y,157500.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-21049,365243,0,0,0,unavailable,1.0
+5062480,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-15462,-2969,0,0,1,Medicine staff,2.0
+5117195,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21435,365243,0,0,0,unavailable,2.0
+5011011,Y,Y,135000.0,Working,Secondary / secondary special,Married,Rented apartment,-12021,-130,0,1,1,Sales staff,2.0
+5142947,N,N,49500.0,Pensioner,Higher education,Married,Municipal or Office apartment,-21157,365243,0,0,0,unavailable,2.0
+5044810,N,Y,135000.0,Working,Higher education,Single / not married,Rented apartment,-9100,-1133,0,0,0,Managers,1.0
+5023641,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14776,-2212,0,0,0,Drivers,1.0
+5045160,Y,Y,126000.0,Working,Secondary / secondary special,Married,Rented apartment,-11432,-129,0,1,0,Core staff,4.0
+5114593,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-10886,-742,0,0,0,Drivers,2.0
+5116763,N,Y,90000.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-24129,365243,0,0,0,unavailable,1.0
+5023534,N,Y,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-13920,-904,0,0,0,Core staff,1.0
+5028682,N,Y,225000.0,Pensioner,Higher education,Married,Rented apartment,-21772,365243,0,1,0,unavailable,2.0
+5125430,N,Y,315000.0,Working,Higher education,Separated,Rented apartment,-22022,-12949,0,0,0,Core staff,1.0
+5010826,Y,Y,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-13095,-1652,0,0,0,High skill tech staff,2.0
+5053152,N,Y,157500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-23774,365243,0,0,0,unavailable,1.0
+5113570,N,Y,171000.0,Working,Secondary / secondary special,Married,Rented apartment,-15111,-2019,1,1,0,Sales staff,2.0
+5113982,Y,N,270000.0,Working,Secondary / secondary special,Married,Rented apartment,-11955,-893,1,1,1,Laborers,2.0
+5067196,N,N,405000.0,Working,Secondary / secondary special,Married,With parents,-12675,-1328,0,0,0,Drivers,3.0
+5097065,N,Y,121500.0,Working,Secondary / secondary special,Married,Rented apartment,-18971,-8161,0,0,0,Managers,2.0
+5092479,N,N,85500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-15014,-6866,0,0,0,Core staff,3.0
+5125769,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-16466,-2083,0,0,0,Sales staff,3.0
+5090438,Y,N,337500.0,Working,Secondary / secondary special,Married,Rented apartment,-10853,-1078,0,0,0,Core staff,5.0
+5125722,Y,N,112500.0,Working,Secondary / secondary special,Married,With parents,-22111,-2325,1,1,0,Drivers,2.0
+5047662,N,Y,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-18880,-4114,0,0,0,Accountants,3.0
+5024145,Y,N,180000.0,Working,Higher education,Married,With parents,-11380,-1007,1,1,0,Accountants,2.0
+5090004,N,Y,180000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23770,365243,0,0,0,unavailable,2.0
+5089883,N,Y,144000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19002,365243,0,0,0,unavailable,2.0
+5018465,N,Y,166500.0,Working,Secondary / secondary special,Married,Rented apartment,-20208,-8033,0,1,0,unavailable,3.0
+5114034,N,N,99000.0,Working,Higher education,Married,Rented apartment,-14661,-5521,0,0,0,unavailable,2.0
+5038554,Y,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-14770,-1173,0,0,0,Drivers,4.0
+5116915,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-17230,-7888,1,0,0,Managers,2.0
+5022248,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-15231,-8375,0,0,1,High skill tech staff,2.0
+5106008,Y,N,76500.0,Working,Secondary / secondary special,Married,Rented apartment,-20816,-484,0,0,0,Laborers,2.0
+5137510,Y,N,225000.0,Working,Higher education,Married,With parents,-12537,-3760,1,0,0,High skill tech staff,3.0
+5053128,Y,Y,234000.0,Working,Secondary / secondary special,Married,Rented apartment,-11511,-3611,0,0,0,High skill tech staff,3.0
+5143574,Y,N,157500.0,Working,Secondary / secondary special,Married,With parents,-9124,-960,1,0,0,Drivers,2.0
+5118360,N,N,135000.0,Working,Higher education,Married,Rented apartment,-10675,-1284,1,0,0,Core staff,2.0
+5145777,Y,Y,112500.0,Working,Higher education,Married,Rented apartment,-13671,-1974,0,0,0,Core staff,6.0
+5029710,N,Y,90000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-12623,-657,1,0,0,Laborers,2.0
+5029336,N,N,225000.0,Working,Secondary / secondary special,Separated,Rented apartment,-11974,-1388,0,0,0,Sales staff,1.0
+5041282,N,Y,90000.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-20451,365243,0,0,0,unavailable,1.0
+5061857,N,Y,112500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8955,-1171,1,0,0,Sales staff,1.0
+5054697,Y,Y,157500.0,Working,Higher education,Married,Rented apartment,-16553,-6908,0,0,0,Laborers,2.0
+5008905,N,Y,297000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-15519,-3234,0,0,0,Laborers,1.0
+5117691,N,Y,99000.0,Working,Secondary / secondary special,Married,Rented apartment,-10633,-127,1,0,0,Sales staff,3.0
+5067863,N,Y,144000.0,Working,Secondary / secondary special,Married,Rented apartment,-18705,-5345,0,0,0,Medicine staff,2.0
+5091120,N,Y,292500.0,Working,Secondary / secondary special,Married,Rented apartment,-14785,-3018,1,1,0,Laborers,3.0
+5009485,N,N,135000.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-12130,-798,0,0,0,Cooking staff,2.0
+5104948,N,Y,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-16694,-412,1,1,0,Sales staff,5.0
+5095472,Y,Y,360000.0,Working,Secondary / secondary special,Married,Rented apartment,-17091,-127,0,0,0,Laborers,3.0
+5125971,Y,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-14858,-1109,0,0,0,Laborers,2.0
+5047682,Y,Y,135000.0,Working,Higher education,Married,Rented apartment,-9075,-614,1,1,0,Sales staff,2.0
+5023362,N,Y,180000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-10809,-2334,1,0,0,unavailable,1.0
+5009852,Y,N,360000.0,Working,Secondary / secondary special,Separated,With parents,-10276,-556,1,1,0,Drivers,1.0
+5117065,N,Y,225000.0,Working,Higher education,Married,Rented apartment,-12644,-1648,1,1,0,Accountants,4.0
+5065560,N,Y,157500.0,Working,Higher education,Married,Rented apartment,-11332,-566,0,0,0,Sales staff,2.0
+5028496,N,Y,180000.0,Working,Higher education,Married,Rented apartment,-9190,-933,0,0,1,Core staff,3.0
+5028628,N,N,112500.0,Pensioner,Higher education,Widow,Rented apartment,-23575,365243,0,0,1,unavailable,1.0
+5036444,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-12488,-1621,0,1,0,Waiters/barmen staff,2.0
+5092197,N,Y,292500.0,Working,Secondary / secondary special,Married,Rented apartment,-21016,-14018,0,0,0,Medicine staff,2.0
+5067874,Y,Y,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-17543,-2851,0,1,0,Drivers,3.0
+5090703,N,N,225000.0,Working,Higher education,Single / not married,Rented apartment,-13528,-459,0,1,0,Accountants,1.0
+5028255,Y,N,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-15328,-2578,0,0,0,Security staff,6.0
+5096790,N,Y,67500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-20371,365243,0,0,0,unavailable,2.0
+5143427,N,Y,180000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-23431,365243,0,0,0,unavailable,1.0
+5048329,N,Y,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-9530,-430,1,0,0,Security staff,1.0
+5118282,N,N,112500.0,Pensioner,Secondary / secondary special,Married,Municipal or Office apartment,-21363,365243,0,0,0,unavailable,2.0
+5009647,N,N,117000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-14689,-3661,1,0,0,Low-skill Laborers,1.0
+5023538,N,Y,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-13920,-904,0,0,0,Core staff,1.0
+5045299,Y,Y,270000.0,Working,Higher education,Married,Rented apartment,-21955,-12455,0,0,0,Core staff,2.0
+5054596,N,Y,157500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21859,365243,0,0,0,unavailable,2.0
+5061838,Y,Y,225000.0,Working,Higher education,Separated,Rented apartment,-11031,-137,1,0,0,unavailable,1.0
+5088566,N,Y,63000.0,Working,Secondary / secondary special,Married,Rented apartment,-19708,-7500,0,0,0,Cooking staff,2.0
+5045634,N,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-10508,-139,1,0,0,Core staff,3.0
+5105359,N,Y,153000.0,Working,Secondary / secondary special,Married,Rented apartment,-18868,-726,0,1,0,unavailable,2.0
+5058266,N,N,225000.0,Working,Secondary / secondary special,Married,With parents,-17868,-1912,0,0,0,Drivers,3.0
+5096784,Y,Y,270000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-24194,365243,0,0,0,unavailable,2.0
+5092441,Y,Y,112500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-19921,365243,0,1,0,unavailable,2.0
+5142804,N,N,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-18382,-4548,1,1,0,Accountants,2.0
+5021538,Y,N,306000.0,Working,Higher education,Married,Rented apartment,-9310,-1678,0,0,0,unavailable,3.0
+5024646,Y,Y,180000.0,Working,Higher education,Married,Rented apartment,-10213,-1707,0,0,0,Managers,2.0
+5105277,Y,Y,247500.0,Working,Higher education,Married,Rented apartment,-16127,-4775,0,1,0,unavailable,2.0
+5021702,Y,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-15174,-3292,1,0,0,Sales staff,3.0
+5028259,Y,Y,130500.0,Working,Secondary / secondary special,Married,Rented apartment,-14152,-5560,0,0,0,Cooking staff,3.0
+5056027,Y,Y,360000.0,Working,Secondary / secondary special,Separated,Rented apartment,-10597,-574,1,0,0,Medicine staff,1.0
+5113400,N,N,180000.0,Working,Higher education,Single / not married,Rented apartment,-10514,-101,1,1,0,Core staff,1.0
+5061820,N,Y,112500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8347,-1598,0,0,0,Laborers,1.0
+5148800,N,Y,117000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-8654,-290,0,0,0,Cooking staff,1.0
+5067992,Y,N,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-12209,-840,0,1,1,unavailable,4.0
+5079045,N,N,67500.0,Working,Secondary / secondary special,Married,Municipal or Office apartment,-19360,-1912,0,0,0,Sales staff,2.0
+5024795,N,Y,225000.0,Pensioner,Higher education,Married,Rented apartment,-23868,365243,0,0,0,unavailable,2.0
+5054762,N,Y,202500.0,Working,Secondary / secondary special,Married,Rented apartment,-15792,-6237,1,1,0,Medicine staff,4.0
+5038707,N,N,247500.0,Working,Secondary / secondary special,Married,Rented apartment,-17416,-687,0,0,0,Medicine staff,2.0
+5097009,N,Y,67500.0,Working,Secondary / secondary special,Married,Rented apartment,-10218,-276,0,0,0,Sales staff,4.0
+5135832,Y,Y,90000.0,Pensioner,Higher education,Married,Rented apartment,-21452,365243,0,0,0,unavailable,2.0
+5125833,N,Y,270000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-11625,-195,0,0,1,Sales staff,1.0
+5022548,N,Y,247500.0,Working,Higher education,Single / not married,Rented apartment,-11984,-2043,0,0,1,Core staff,1.0
+5142313,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-16778,-332,0,0,0,Core staff,4.0
+5048212,N,Y,135000.0,Pensioner,Secondary / secondary special,Separated,Rented apartment,-21613,365243,0,0,0,unavailable,1.0
+5056083,N,N,180000.0,Working,Higher education,Married,Rented apartment,-11630,-3769,0,0,0,Laborers,3.0
+5033703,N,Y,65250.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23289,365243,0,0,0,unavailable,2.0
+5008884,N,Y,315000.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,-20186,365243,0,0,0,unavailable,1.0
+5096350,Y,N,315000.0,Working,Secondary / secondary special,Married,Rented apartment,-18214,-5210,1,1,0,Laborers,2.0
+5056032,Y,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-17314,-574,0,0,0,Laborers,2.0
+5143305,N,Y,382500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-16514,-5187,0,0,0,Managers,1.0
+5090985,Y,Y,495000.0,Working,Secondary / secondary special,Married,With parents,-8917,-1101,0,0,1,Drivers,2.0
+5113023,Y,Y,99000.0,Working,Secondary / secondary special,Married,Rented apartment,-17200,-2960,0,1,0,Secretaries,2.0
+5111187,Y,N,225000.0,Working,Higher education,Married,With parents,-10959,-1881,0,0,0,Secretaries,3.0
+5022224,N,Y,180000.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-23594,365243,0,0,0,unavailable,1.0
+5090071,N,Y,130500.0,Working,Secondary / secondary special,Widow,Rented apartment,-18245,-3292,0,0,0,Security staff,1.0
+5091753,Y,N,135000.0,Working,Higher education,Married,Rented apartment,-12725,-1631,0,0,0,Core staff,4.0
+5029699,N,Y,202500.0,Working,Higher education,Separated,Rented apartment,-18085,-1205,0,0,0,Security staff,2.0
+5111098,Y,Y,67500.0,Working,Higher education,Married,Municipal or Office apartment,-12262,-3038,0,0,0,Secretaries,4.0
+5035537,N,Y,67500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-21917,365243,0,0,0,unavailable,2.0
+5069488,Y,Y,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-14330,-1936,0,0,0,Sales staff,2.0
+5142268,N,N,99000.0,Working,Secondary / secondary special,Married,Rented apartment,-15626,-422,0,0,0,unavailable,3.0
+5092376,Y,Y,292500.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-23362,365243,0,1,0,unavailable,2.0
+5046063,N,Y,135000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-22744,365243,0,1,0,unavailable,2.0
+5113477,N,Y,360000.0,Working,Higher education,Married,Rented apartment,-14129,-984,0,0,0,Core staff,2.0
+5053192,N,Y,315000.0,Working,Higher education,Married,Rented apartment,-15527,-3792,1,1,0,Accountants,2.0
+5090051,N,Y,69372.0,Working,Secondary / secondary special,Married,Rented apartment,-15887,-217,1,1,0,Laborers,2.0
+5038852,N,Y,90000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,-24665,365243,0,0,0,unavailable,2.0
+5066598,N,N,360000.0,Working,Higher education,Married,Rented apartment,-14805,-1922,0,0,0,Sales staff,3.0
+5149654,N,Y,292500.0,Pensioner,Secondary / secondary special,Single / not married,Rented apartment,-22576,365243,0,0,0,unavailable,1.0
+5125684,N,Y,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14058,-3694,0,0,0,Realty agents,3.0
+5061260,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-9301,-1751,0,0,0,unavailable,2.0
+5085657,N,N,135000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-13595,-1387,0,0,0,Laborers,1.0
+5126663,N,Y,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-10989,-135,1,1,0,unavailable,3.0
+5023647,Y,N,225000.0,Working,Secondary / secondary special,Married,Rented apartment,-14776,-2212,0,0,0,Drivers,4.0
+5132639,N,Y,126000.0,Working,Higher education,Married,Rented apartment,-18888,-7347,0,0,0,Core staff,2.0
+5096319,Y,N,270000.0,Working,Higher education,Single / not married,Rented apartment,-9517,-158,0,0,0,Core staff,1.0
+5028600,Y,Y,225000.0,Working,Higher education,Married,Rented apartment,-11359,-1726,0,0,0,Core staff,4.0
+5125284,N,Y,90000.0,Working,Secondary / secondary special,Married,Rented apartment,-16280,-3694,0,0,1,Sales staff,3.0
+5116661,N,Y,180000.0,Working,Secondary / secondary special,Married,Rented apartment,-15116,-2284,0,0,0,Laborers,3.0
+5126299,N,N,112500.0,Working,Secondary / secondary special,Married,Rented apartment,-15731,-4488,1,0,0,Accountants,2.0
